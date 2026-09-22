@@ -1,0 +1,8522 @@
+[
+  {
+    "id": "957c080b-7ed8-494a-81dc-0028acec3739",
+    "ts": 1775726031597,
+    "turn": 2,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 74,
+    "after": 64
+  },
+  {
+    "id": "c0590d5a-1058-472d-85ed-4af9e6e811cf",
+    "ts": 1775727726012,
+    "turn": 3,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 3,
+    "before": 37,
+    "after": 34
+  },
+  {
+    "id": "aae04766-5c76-4b1e-b54d-f40acaefc4c8",
+    "ts": 1775727732032,
+    "turn": 7,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 3,
+    "before": 33,
+    "after": 30
+  },
+  {
+    "id": "b457f18b-2c48-42df-9ddc-6fd29e96b801",
+    "ts": 1775727754163,
+    "turn": 9,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 16,
+    "before": 108,
+    "after": 92
+  },
+  {
+    "id": "2a5a29c3-19bf-43d4-b122-ea7b1795531d",
+    "ts": 1775728222065,
+    "turn": 11,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 51,
+    "after": 47
+  },
+  {
+    "id": "f5e8ecee-23d2-463a-bd2b-2e23ff868ef5",
+    "ts": 1775728273207,
+    "turn": 12,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 6,
+    "before": 55,
+    "after": 49
+  },
+  {
+    "id": "adde380c-a5ee-4d6f-88f6-97a41a35492f",
+    "ts": 1775728293041,
+    "turn": 13,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 59,
+    "after": 50
+  },
+  {
+    "id": "65206d92-4239-43d2-80df-eaf5349e1eb0",
+    "ts": 1775728504185,
+    "turn": 15,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 39,
+    "after": 37
+  },
+  {
+    "id": "b3ce1d4f-02eb-466f-a013-3fa3f4ae55b4",
+    "ts": 1775728505669,
+    "turn": 16,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 58,
+    "after": 54
+  },
+  {
+    "id": "b3f8782d-bc2e-4aa4-8c64-eb1b162fb0dd",
+    "ts": 1775728505682,
+    "turn": 17,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 3,
+    "before": 38,
+    "after": 35
+  },
+  {
+    "id": "ecafc374-139a-4686-b903-cbe55de9badf",
+    "ts": 1775728505715,
+    "turn": 19,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 95,
+    "after": 89
+  },
+  {
+    "id": "dde0c828-69e7-4de6-b219-41232a751257",
+    "ts": 1775728505750,
+    "turn": 21,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 5,
+    "before": 44,
+    "after": 39
+  },
+  {
+    "id": "dbcdfda7-84e7-4072-9634-115e463d3b78",
+    "ts": 1775728505765,
+    "turn": 22,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 54,
+    "after": 47
+  },
+  {
+    "id": "e5115072-16f1-4f8d-857e-f80ef0718bb7",
+    "ts": 1775728505796,
+    "turn": 24,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 69,
+    "after": 64
+  },
+  {
+    "id": "7fcdc763-41c1-4dfd-9992-c72490f1905f",
+    "ts": 1775728505877,
+    "turn": 29,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 42,
+    "after": 38
+  },
+  {
+    "id": "8b6e8936-f625-4004-9295-9b52a24f0266",
+    "ts": 1775728505908,
+    "turn": 31,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 3,
+    "before": 42,
+    "after": 39
+  },
+  {
+    "id": "ba947790-e240-4d55-98b5-dd41c6d12d7c",
+    "ts": 1775728506024,
+    "turn": 38,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 51,
+    "after": 48
+  },
+  {
+    "id": "f2faa8de-4b06-45c8-a443-e513c95b336e",
+    "ts": 1775728506041,
+    "turn": 39,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 57,
+    "after": 54
+  },
+  {
+    "id": "48818cb4-0f63-40c5-a795-4a799a866e87",
+    "ts": 1775728506076,
+    "turn": 41,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 42,
+    "after": 37
+  },
+  {
+    "id": "a6c2a57c-36eb-4b66-ab06-a3e89097fa71",
+    "ts": 1775728506092,
+    "turn": 42,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 63,
+    "after": 57
+  },
+  {
+    "id": "2b0d33a3-2714-4f8a-ada9-20859bf3a562",
+    "ts": 1775728506108,
+    "turn": 43,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 63,
+    "after": 59
+  },
+  {
+    "id": "bfaf2f10-31be-4583-9a9e-49f5a04f531b",
+    "ts": 1775728506125,
+    "turn": 44,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 91,
+    "after": 84
+  },
+  {
+    "id": "cf63a463-acaa-488c-be38-348cf8c0d6ff",
+    "ts": 1775728506280,
+    "turn": 53,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 7,
+    "before": 51,
+    "after": 44
+  },
+  {
+    "id": "25ea42d6-fcb2-4fb0-855b-4fdc48d2e19e",
+    "ts": 1775728506298,
+    "turn": 54,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 11,
+    "before": 82,
+    "after": 71
+  },
+  {
+    "id": "e7639506-183a-47af-bb6b-0114ab1c7931",
+    "ts": 1775728506312,
+    "turn": 55,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 44,
+    "after": 39
+  },
+  {
+    "id": "bc7a4880-2207-4033-adb3-a418bcf8b83a",
+    "ts": 1775728506344,
+    "turn": 57,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 1,
+    "before": 27,
+    "after": 26
+  },
+  {
+    "id": "1726bab7-ace0-4a78-8022-7589e7492229",
+    "ts": 1775728731722,
+    "turn": 61,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 13,
+    "before": 89,
+    "after": 76
+  },
+  {
+    "id": "90dbcbbb-eaf8-4c13-be44-04acb0a33d2b",
+    "ts": 1775728731735,
+    "turn": 62,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 7,
+    "before": 65,
+    "after": 58
+  },
+  {
+    "id": "68d658f4-ec65-4a0f-a528-fe63228e0e74",
+    "ts": 1775728731782,
+    "turn": 64,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 2,
+    "before": 27,
+    "after": 25
+  },
+  {
+    "id": "7c645d95-57a3-411b-b723-9d9035b4f792",
+    "ts": 1775728731805,
+    "turn": 65,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 42,
+    "after": 38
+  },
+  {
+    "id": "8fadf2a9-b352-497e-9046-666b77d067df",
+    "ts": 1775728731853,
+    "turn": 68,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 46,
+    "after": 41
+  },
+  {
+    "id": "4e2c5a47-1f85-46f0-93d0-4f954dfcbc96",
+    "ts": 1775728731911,
+    "turn": 70,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 5,
+    "before": 42,
+    "after": 37
+  },
+  {
+    "id": "8b0e04bc-8052-44c6-95ff-9e4b4e25e090",
+    "ts": 1775728731951,
+    "turn": 72,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 7,
+    "before": 59,
+    "after": 52
+  },
+  {
+    "id": "87628b98-6c73-4cb4-9da1-d3b986e66ba7",
+    "ts": 1775728732069,
+    "turn": 79,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 8,
+    "before": 54,
+    "after": 46
+  },
+  {
+    "id": "65beca49-b1bf-4b6d-9b16-34278082c94f",
+    "ts": 1775728732138,
+    "turn": 83,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 9,
+    "before": 186,
+    "after": 177
+  },
+  {
+    "id": "112d6a47-0737-4476-9b4e-ab6f3a938c34",
+    "ts": 1775728732172,
+    "turn": 85,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 77,
+    "after": 69
+  },
+  {
+    "id": "660177e5-60e9-4b65-b288-251acc7365d8",
+    "ts": 1775728732192,
+    "turn": 86,
+    "ticker": "MTSS",
+    "pct": 11,
+    "divAmount": 4,
+    "before": 39,
+    "after": 35
+  },
+  {
+    "id": "9a848983-d5d1-40a2-a378-7d21c9c1801d",
+    "ts": 1775728732259,
+    "turn": 90,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 44,
+    "after": 39
+  },
+  {
+    "id": "c2af34f8-c2a9-42b8-8b04-31074f2489ea",
+    "ts": 1775728732279,
+    "turn": 91,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 65,
+    "after": 62
+  },
+  {
+    "id": "1da58c03-2e65-403d-915d-87b957b62b53",
+    "ts": 1775728732319,
+    "turn": 93,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 29,
+    "before": 192,
+    "after": 163
+  },
+  {
+    "id": "747b6f5a-df60-4208-a614-f8c9af1b89ce",
+    "ts": 1775728732346,
+    "turn": 94,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 45,
+    "after": 43
+  },
+  {
+    "id": "a47aa04d-12e6-4a87-a5a6-021a667088a3",
+    "ts": 1775728732364,
+    "turn": 95,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 2,
+    "before": 24,
+    "after": 22
+  },
+  {
+    "id": "d309e8b0-2cb2-4930-b3aa-f3fbe153b979",
+    "ts": 1775728732389,
+    "turn": 96,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 55,
+    "after": 52
+  },
+  {
+    "id": "c6fa6fb5-1fbe-4389-b21f-b58b2cefe603",
+    "ts": 1775728732403,
+    "turn": 97,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 6,
+    "before": 42,
+    "after": 36
+  },
+  {
+    "id": "f00e4fc6-c8fa-482e-9467-26baccf1a296",
+    "ts": 1775728732468,
+    "turn": 101,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 18,
+    "before": 196,
+    "after": 178
+  },
+  {
+    "id": "9a7bf58b-34ed-48fc-921e-d3d5ed30a853",
+    "ts": 1775728732486,
+    "turn": 102,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 3,
+    "before": 20,
+    "after": 17
+  },
+  {
+    "id": "665cbfd4-7a05-42c5-b9fd-86afa221f1e0",
+    "ts": 1775728732568,
+    "turn": 107,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 59,
+    "after": 51
+  },
+  {
+    "id": "20e6a62c-2058-46c7-8a6c-c61927357b8e",
+    "ts": 1775728732587,
+    "turn": 108,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 49,
+    "after": 45
+  },
+  {
+    "id": "74554e5e-8d7a-4fe4-99d0-2e8298686d48",
+    "ts": 1775728772046,
+    "turn": 113,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 9,
+    "before": 189,
+    "after": 180
+  },
+  {
+    "id": "6021aa6d-4e80-45d1-93f9-6882b1a693b0",
+    "ts": 1775728817198,
+    "turn": 114,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 63,
+    "after": 58
+  },
+  {
+    "id": "42e2f03a-b570-4d40-86b7-305ccbd5432c",
+    "ts": 1775728819591,
+    "turn": 115,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 63,
+    "after": 59
+  },
+  {
+    "id": "effd7cd8-77be-4b3b-b0cd-1ccb83a50aaa",
+    "ts": 1775728820544,
+    "turn": 116,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 50,
+    "after": 47
+  },
+  {
+    "id": "d1f33dcb-b561-4802-9853-6fd2a2dc1137",
+    "ts": 1775729026397,
+    "turn": 118,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 2,
+    "before": 22,
+    "after": 20
+  },
+  {
+    "id": "a2e782cd-b3ac-4e68-a550-fba2e82856ac",
+    "ts": 1775729026427,
+    "turn": 119,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 4,
+    "before": 34,
+    "after": 30
+  },
+  {
+    "id": "03a287ca-3b75-4f3a-8729-4910524c7bcd",
+    "ts": 1775729026513,
+    "turn": 123,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 15,
+    "before": 133,
+    "after": 118
+  },
+  {
+    "id": "274752ec-a0c4-4da9-9dc3-25f647ce8689",
+    "ts": 1775729026533,
+    "turn": 124,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 88,
+    "after": 83
+  },
+  {
+    "id": "48b89d13-09f2-41b8-a361-7d3df6f50a72",
+    "ts": 1775729026606,
+    "turn": 128,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 63,
+    "after": 54
+  },
+  {
+    "id": "d28ad748-464e-44cb-b822-dcc3bf05a1cb",
+    "ts": 1775729026638,
+    "turn": 130,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 47,
+    "after": 43
+  },
+  {
+    "id": "1a2aaebc-93fc-4492-9c56-37a7dcaf1985",
+    "ts": 1775729026654,
+    "turn": 131,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 14,
+    "before": 176,
+    "after": 162
+  },
+  {
+    "id": "c4415019-e815-456e-bc5b-4152f5889f49",
+    "ts": 1775729026688,
+    "turn": 133,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 11,
+    "before": 79,
+    "after": 68
+  },
+  {
+    "id": "c90184f1-34de-4f4a-8dc8-8d4a8fb5f2d8",
+    "ts": 1775729026707,
+    "turn": 134,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 5,
+    "before": 53,
+    "after": 48
+  },
+  {
+    "id": "99a430a1-b66a-48a7-a502-24c00128d539",
+    "ts": 1775729026724,
+    "turn": 135,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 49,
+    "after": 44
+  },
+  {
+    "id": "701f0d30-e179-4175-9de1-b01504f95cea",
+    "ts": 1775729026776,
+    "turn": 138,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 5,
+    "before": 45,
+    "after": 41
+  },
+  {
+    "id": "a56b1aa7-2f52-4d39-b15e-515bfe168bda",
+    "ts": 1777184335341,
+    "turn": 139,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 49,
+    "after": 45
+  },
+  {
+    "id": "5efb3241-6089-448f-b798-71c9216c629e",
+    "ts": 1777184337992,
+    "turn": 143,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 1,
+    "before": 27,
+    "after": 26
+  },
+  {
+    "id": "7c17c570-f8e8-4609-9c55-c97fb896e045",
+    "ts": 1777184338028,
+    "turn": 145,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 8,
+    "before": 119,
+    "after": 111
+  },
+  {
+    "id": "59d57de5-da2f-427e-bf07-096aee6ef66c",
+    "ts": 1777184338113,
+    "turn": 150,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 54,
+    "after": 47
+  },
+  {
+    "id": "7f7a4ac0-bfa2-4e57-afc8-f21c76cb907c",
+    "ts": 1777184338155,
+    "turn": 152,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 65,
+    "after": 57
+  },
+  {
+    "id": "0a130b36-7f98-45d0-9389-253d873f7ab2",
+    "ts": 1777184338190,
+    "turn": 154,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 7,
+    "before": 78,
+    "after": 71
+  },
+  {
+    "id": "23de65b8-ee7f-4ea9-9a82-39e93bd82e71",
+    "ts": 1777184338243,
+    "turn": 157,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 38,
+    "after": 35
+  },
+  {
+    "id": "fcb936cf-e6e5-4a33-bf9a-4580d5f611bb",
+    "ts": 1777184338275,
+    "turn": 159,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 2,
+    "before": 27,
+    "after": 25
+  },
+  {
+    "id": "c89d942d-b469-4433-8c69-bd6449a2080a",
+    "ts": 1777184338309,
+    "turn": 161,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 6,
+    "before": 55,
+    "after": 49
+  },
+  {
+    "id": "157004cb-4fa1-4944-bddf-0e5a532fb4a2",
+    "ts": 1777184338327,
+    "turn": 162,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 94,
+    "after": 89
+  },
+  {
+    "id": "12ec6f2e-e5e1-4946-9db1-74e1436c8b13",
+    "ts": 1777184338367,
+    "turn": 164,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 61,
+    "after": 56
+  },
+  {
+    "id": "dd711b06-0ca9-46f6-80cb-8545f4b94f3d",
+    "ts": 1777184338408,
+    "turn": 166,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 8,
+    "before": 84,
+    "after": 76
+  },
+  {
+    "id": "faecb7db-617e-4c8c-b070-a2b37c4f17b6",
+    "ts": 1777184338449,
+    "turn": 168,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 12,
+    "before": 88,
+    "after": 76
+  },
+  {
+    "id": "1e2553bf-41b8-4315-865a-118883080be9",
+    "ts": 1777184338495,
+    "turn": 171,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 4,
+    "before": 29,
+    "after": 25
+  },
+  {
+    "id": "19f61b2c-c96d-422d-a781-ff78db458885",
+    "ts": 1777184338514,
+    "turn": 172,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 13,
+    "before": 93,
+    "after": 80
+  },
+  {
+    "id": "bf8f5447-9b93-45d2-a67e-c980238b2571",
+    "ts": 1777184338538,
+    "turn": 173,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 8,
+    "before": 51,
+    "after": 43
+  },
+  {
+    "id": "08d8305c-f92d-4698-8022-905183219d2d",
+    "ts": 1777184338598,
+    "turn": 176,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 11,
+    "before": 70,
+    "after": 60
+  },
+  {
+    "id": "a12e191d-d0a8-4374-9cf4-91dca2e94d77",
+    "ts": 1777200222910,
+    "turn": 156,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 63,
+    "after": 57
+  },
+  {
+    "id": "ba547805-089d-460b-a949-bcf6182f8ce4",
+    "ts": 1777200222938,
+    "turn": 158,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 10,
+    "before": 98,
+    "after": 88
+  },
+  {
+    "id": "f81b8ac0-67d7-49f4-ae7b-78942cbf1361",
+    "ts": 1777200222987,
+    "turn": 161,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 21,
+    "before": 171,
+    "after": 150
+  },
+  {
+    "id": "8c1de5d4-ce4b-471b-bbbe-1ae0ebb3a7ab",
+    "ts": 1777200223021,
+    "turn": 163,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 26,
+    "before": 171,
+    "after": 145
+  },
+  {
+    "id": "139abeef-9a61-4036-8379-f81f4c2228bc",
+    "ts": 1777200223036,
+    "turn": 164,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 60,
+    "after": 56
+  },
+  {
+    "id": "675247b3-a766-47b0-90e4-cbf4246db4c7",
+    "ts": 1777200223054,
+    "turn": 165,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 20,
+    "before": 135,
+    "after": 115
+  },
+  {
+    "id": "24fb0070-989c-4fad-b595-8985a7d35894",
+    "ts": 1777200223069,
+    "turn": 166,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 34,
+    "after": 32
+  },
+  {
+    "id": "07161639-170e-4039-84c0-aeb4b9a04b57",
+    "ts": 1777200223102,
+    "turn": 168,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 8,
+    "before": 55,
+    "after": 47
+  },
+  {
+    "id": "34c0dec0-0620-4039-b8a3-6d85abbaf901",
+    "ts": 1777200223120,
+    "turn": 169,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 55,
+    "after": 50
+  },
+  {
+    "id": "07378f73-bcd6-4b9d-9bc4-302fb6f12936",
+    "ts": 1777200223186,
+    "turn": 173,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 84,
+    "after": 76
+  },
+  {
+    "id": "3e5fd5b6-242c-43ed-9bf6-f4ed17829e78",
+    "ts": 1777200223220,
+    "turn": 175,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 79,
+    "after": 71
+  },
+  {
+    "id": "e0f5010e-7721-4c73-849b-6d9362f61ee1",
+    "ts": 1777200223254,
+    "turn": 177,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 52,
+    "after": 48
+  },
+  {
+    "id": "e172e202-8b73-4095-b5de-f6e9998d9f42",
+    "ts": 1777200223269,
+    "turn": 178,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 12,
+    "before": 107,
+    "after": 95
+  },
+  {
+    "id": "0893e9ba-3a85-4fbd-910b-abb60472c285",
+    "ts": 1777200223301,
+    "turn": 180,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 66,
+    "after": 61
+  },
+  {
+    "id": "33127561-cac9-44f3-b812-b93bf87d1961",
+    "ts": 1777202012468,
+    "turn": 184,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 15,
+    "before": 107,
+    "after": 92
+  },
+  {
+    "id": "5a3e6bbc-b754-4dd7-ad38-58aa7f7499da",
+    "ts": 1777202027330,
+    "turn": 185,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 64,
+    "after": 56
+  },
+  {
+    "id": "90fc0049-fdab-4452-b6ea-c0710df7f79f",
+    "ts": 1777202521579,
+    "turn": 189,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 53,
+    "after": 49
+  },
+  {
+    "id": "7c5fc366-2b5e-4416-bdad-c724e0116d1e",
+    "ts": 1777202523080,
+    "turn": 190,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 6,
+    "before": 40,
+    "after": 34
+  },
+  {
+    "id": "903606b5-df96-480d-9236-c1059d217ada",
+    "ts": 1777202524168,
+    "turn": 191,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 8,
+    "before": 57,
+    "after": 49
+  },
+  {
+    "id": "1d517359-28a2-4352-b9b0-ef06686c4728",
+    "ts": 1777202525744,
+    "turn": 192,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 73,
+    "after": 69
+  },
+  {
+    "id": "f5b9dad3-0501-4db7-8d8e-43a9d86ad3a9",
+    "ts": 1777202887484,
+    "turn": 193,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 59,
+    "after": 55
+  },
+  {
+    "id": "5c448946-75ff-4674-87ed-013517870688",
+    "ts": 1777203039238,
+    "turn": 199,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 13,
+    "before": 84,
+    "after": 71
+  },
+  {
+    "id": "43d1e67c-8d44-447e-a395-e18d15021457",
+    "ts": 1777203040200,
+    "turn": 200,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 12,
+    "before": 81,
+    "after": 69
+  },
+  {
+    "id": "9b9e2c2b-e0d6-4985-ba21-524ef34231d3",
+    "ts": 1777203041065,
+    "turn": 201,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 7,
+    "before": 47,
+    "after": 40
+  },
+  {
+    "id": "de33f32e-8aab-40df-8be3-3781884e1b6c",
+    "ts": 1777203187583,
+    "turn": 206,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 57,
+    "after": 51
+  },
+  {
+    "id": "c0cc850a-fceb-4e23-ae75-4bf9ce20e17e",
+    "ts": 1777203492714,
+    "turn": 209,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 103,
+    "after": 98
+  },
+  {
+    "id": "fa7fde53-a7cb-40ec-9fc4-a5930bb6eca7",
+    "ts": 1777203493711,
+    "turn": 210,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 15,
+    "before": 123,
+    "after": 108
+  },
+  {
+    "id": "13eddcc5-5cbf-4fc2-93b2-07f6f662982c",
+    "ts": 1777203613544,
+    "turn": 212,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 43,
+    "after": 40
+  },
+  {
+    "id": "63ce3d32-2950-4600-91b1-78d204749af5",
+    "ts": 1777203614646,
+    "turn": 213,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 3,
+    "before": 38,
+    "after": 35
+  },
+  {
+    "id": "7b25dc63-7cbe-4f11-aa43-e9f19fa3317c",
+    "ts": 1777203694742,
+    "turn": 215,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 40,
+    "after": 37
+  },
+  {
+    "id": "1bdb2a28-9632-4429-aba8-eaf408207c23",
+    "ts": 1777203695722,
+    "turn": 216,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 23,
+    "before": 155,
+    "after": 132
+  },
+  {
+    "id": "37effaba-ef88-495d-a77c-b23fc331fc44",
+    "ts": 1777203696653,
+    "turn": 217,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 36,
+    "after": 33
+  },
+  {
+    "id": "9e67e444-f4ee-4bf5-9aeb-ac217ddaca7b",
+    "ts": 1777204130687,
+    "turn": 219,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 78,
+    "after": 74
+  },
+  {
+    "id": "9c7a1e72-1ec7-4c03-86f7-89b4cd8645fe",
+    "ts": 1777204131581,
+    "turn": 220,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 43,
+    "after": 39
+  },
+  {
+    "id": "d6f33ef6-0c28-49eb-8889-653cd3888b11",
+    "ts": 1777204408140,
+    "turn": 225,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 39,
+    "after": 35
+  },
+  {
+    "id": "7f4a8d68-d196-4f0d-a5cb-9ac95826c96d",
+    "ts": 1777204551647,
+    "turn": 227,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 45,
+    "after": 42
+  },
+  {
+    "id": "5a299352-dfe2-4ad6-a0c7-1d3dcfec9fa7",
+    "ts": 1777204841909,
+    "turn": 235,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 7,
+    "before": 60,
+    "after": 53
+  },
+  {
+    "id": "ed5f91fc-9ee2-4f78-a03e-8ac1d4fe3e9e",
+    "ts": 1777204844169,
+    "turn": 237,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 62,
+    "after": 59
+  },
+  {
+    "id": "5c5a5da3-f7ac-400b-bb20-dada435d942b",
+    "ts": 1777204980823,
+    "turn": 242,
+    "ticker": "YDEX",
+    "pct": 9,
+    "divAmount": 7,
+    "before": 81,
+    "after": 74
+  },
+  {
+    "id": "efd5c3c7-8c83-4a2c-9a13-634061858e96",
+    "ts": 1777205166328,
+    "turn": 243,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 73,
+    "after": 68
+  },
+  {
+    "id": "099d85a7-1bc4-49ab-b415-b48fd20e218d",
+    "ts": 1777205167867,
+    "turn": 245,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 6,
+    "before": 41,
+    "after": 35
+  },
+  {
+    "id": "0eae9b25-4a94-4ee5-b802-fead0100037b",
+    "ts": 1777205340871,
+    "turn": 247,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 69,
+    "after": 61
+  },
+  {
+    "id": "f700fbb9-5cfe-4c4e-93d1-3bd86e36ba74",
+    "ts": 1777205342233,
+    "turn": 249,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 77,
+    "after": 71
+  },
+  {
+    "id": "758a1011-d785-47ee-aeb3-fb8f87d5a1aa",
+    "ts": 1777205512833,
+    "turn": 252,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 99,
+    "after": 94
+  },
+  {
+    "id": "9c50113e-129d-4ec0-a00d-1c225f37fbc1",
+    "ts": 1777205706034,
+    "turn": 257,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 105,
+    "after": 99
+  },
+  {
+    "id": "a0b48cb7-cf3f-4142-965a-98195f38c05b",
+    "ts": 1777205707129,
+    "turn": 258,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 84,
+    "after": 77
+  },
+  {
+    "id": "d4ea80d1-6346-4f2b-a467-4a0659b1d0a5",
+    "ts": 1777205708133,
+    "turn": 259,
+    "ticker": "MTSS",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 72,
+    "after": 64
+  },
+  {
+    "id": "35c5c8e6-a929-4114-9465-1997e3446062",
+    "ts": 1777205976790,
+    "turn": 265,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 13,
+    "before": 112,
+    "after": 99
+  },
+  {
+    "id": "25129ad0-6475-4a81-8d9e-e0bf46f27c40",
+    "ts": 1777205978730,
+    "turn": 267,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 9,
+    "before": 68,
+    "after": 59
+  },
+  {
+    "id": "779e7b35-8537-4f94-aed9-4179124b06f0",
+    "ts": 1777206215031,
+    "turn": 269,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 61,
+    "after": 56
+  },
+  {
+    "id": "1f4cc924-e5b7-443e-93cb-481c727f3fad",
+    "ts": 1777206731607,
+    "turn": 276,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 108,
+    "after": 102
+  },
+  {
+    "id": "3db4d026-35a3-4191-b99f-ecf002925763",
+    "ts": 1777206733496,
+    "turn": 278,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 8,
+    "before": 97,
+    "after": 89
+  },
+  {
+    "id": "e3bdf985-6e6e-42ae-baef-dbb8be883044",
+    "ts": 1777206897373,
+    "turn": 280,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 9,
+    "before": 72,
+    "after": 63
+  },
+  {
+    "id": "6216518a-3c9f-4d79-b537-8100582c990b",
+    "ts": 1777206899460,
+    "turn": 282,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 55,
+    "after": 52
+  },
+  {
+    "id": "17b97f28-736c-4d21-af7f-c4c2275cf2a4",
+    "ts": 1777206901195,
+    "turn": 283,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 16,
+    "before": 108,
+    "after": 92
+  },
+  {
+    "id": "fcc95f46-26b9-4d37-87d9-33cecdf97621",
+    "ts": 1777207168005,
+    "turn": 284,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 63,
+    "after": 59
+  },
+  {
+    "id": "3d23d7dd-d11c-43bd-9ef7-2c47f4959979",
+    "ts": 1777207169620,
+    "turn": 286,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 12,
+    "before": 107,
+    "after": 95
+  },
+  {
+    "id": "cea5e5d1-da0c-43aa-b836-b2a017041b60",
+    "ts": 1777207352538,
+    "turn": 288,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 54,
+    "after": 51
+  },
+  {
+    "id": "c47fe4fe-16dc-480c-8f95-13a043d9ceb5",
+    "ts": 1777207353749,
+    "turn": 290,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 65,
+    "after": 62
+  },
+  {
+    "id": "197bbb06-608c-4bbc-a636-4c48c73703c2",
+    "ts": 1777207354652,
+    "turn": 291,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 77,
+    "after": 72
+  },
+  {
+    "id": "b40ebe41-f67e-4368-b7a7-b5e79802ae34",
+    "ts": 1777207509319,
+    "turn": 292,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 9,
+    "before": 124,
+    "after": 115
+  },
+  {
+    "id": "d51bfadf-88bd-4667-8a8b-b11efee00f12",
+    "ts": 1777207510745,
+    "turn": 294,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 9,
+    "before": 74,
+    "after": 65
+  },
+  {
+    "id": "0f7d888d-b2e2-42e6-bb8d-16cd3d6644a0",
+    "ts": 1777207618624,
+    "turn": 296,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 11,
+    "before": 71,
+    "after": 60
+  },
+  {
+    "id": "d1255a14-179a-4d1c-89c0-fe50c7cbee0e",
+    "ts": 1777207620121,
+    "turn": 298,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 51,
+    "after": 47
+  },
+  {
+    "id": "bb628987-e645-4415-b839-62899ec503cb",
+    "ts": 1777207621012,
+    "turn": 299,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 100,
+    "after": 94
+  },
+  {
+    "id": "07873e3f-301f-4e81-be4a-c9c9a76cf0e7",
+    "ts": 1777207917088,
+    "turn": 300,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 69,
+    "after": 61
+  },
+  {
+    "id": "7b8375e3-f06b-43fc-8860-1c758f90e8fe",
+    "ts": 1777207919015,
+    "turn": 303,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 10,
+    "before": 70,
+    "after": 60
+  },
+  {
+    "id": "f34301b7-b6bb-4a28-acde-b0e788f317f5",
+    "ts": 1777208068212,
+    "turn": 304,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 59,
+    "after": 55
+  },
+  {
+    "id": "d9be741d-e2cf-44c4-adb2-813817aee8f3",
+    "ts": 1777208217751,
+    "turn": 308,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 83,
+    "after": 75
+  },
+  {
+    "id": "3c4e86d8-81c2-4ae9-a2c3-4a25bfc212f6",
+    "ts": 1777208219275,
+    "turn": 310,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 66,
+    "after": 61
+  },
+  {
+    "id": "7b8d4ff1-c171-40a5-b3b2-45005acc10a7",
+    "ts": 1777208220278,
+    "turn": 311,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 41,
+    "after": 37
+  },
+  {
+    "id": "2429a6bf-1157-4b73-ba2a-f0490b81a6cd",
+    "ts": 1777208369916,
+    "turn": 315,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 7,
+    "before": 66,
+    "after": 59
+  },
+  {
+    "id": "aa65673e-1056-4fdf-acbf-b150e06eb25d",
+    "ts": 1777208592534,
+    "turn": 316,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 48,
+    "after": 42
+  },
+  {
+    "id": "1c64f57e-d22b-42bb-a777-7e4b16f40524",
+    "ts": 1777208593490,
+    "turn": 317,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 92,
+    "after": 85
+  },
+  {
+    "id": "dfdd3a6c-359b-40ee-93f5-7b6c2184fc47",
+    "ts": 1777208594352,
+    "turn": 318,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 6,
+    "before": 38,
+    "after": 32
+  },
+  {
+    "id": "c67a06f5-67be-42db-a9df-ecaf69725419",
+    "ts": 1777208797188,
+    "turn": 321,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 3,
+    "before": 38,
+    "after": 35
+  },
+  {
+    "id": "321e8085-4125-4e17-9b0f-73eb064a88e3",
+    "ts": 1777208798387,
+    "turn": 322,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 8,
+    "before": 97,
+    "after": 89
+  },
+  {
+    "id": "feb22481-fa4c-4d8e-b9ad-47b2a9de588c",
+    "ts": 1777208980663,
+    "turn": 324,
+    "ticker": "YDEX",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 84,
+    "after": 74
+  },
+  {
+    "id": "8bcc52b4-a7cd-48bd-9865-33d0ac993364",
+    "ts": 1777208981653,
+    "turn": 325,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 44,
+    "after": 38
+  },
+  {
+    "id": "8097b76c-cde4-4c25-98f5-44ff1d80a62e",
+    "ts": 1777208983117,
+    "turn": 327,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 64,
+    "after": 59
+  },
+  {
+    "id": "9b241910-0a98-4bec-a113-2c8e09ede94e",
+    "ts": 1777209142187,
+    "turn": 329,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 9,
+    "before": 86,
+    "after": 77
+  },
+  {
+    "id": "1820cbf2-e301-42ba-ad37-c18d180c2f0f",
+    "ts": 1777209143253,
+    "turn": 330,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 89,
+    "after": 85
+  },
+  {
+    "id": "ea6d0c4c-1d43-4616-b383-23bb00ebdd1a",
+    "ts": 1777209144187,
+    "turn": 331,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 37,
+    "after": 33
+  },
+  {
+    "id": "c9fc162d-bc80-415e-9577-ad71eee86b36",
+    "ts": 1777209254828,
+    "turn": 332,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 7,
+    "before": 80,
+    "after": 73
+  },
+  {
+    "id": "646159f3-2675-428d-969f-7caba9aac237",
+    "ts": 1777209255691,
+    "turn": 333,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 45,
+    "after": 40
+  },
+  {
+    "id": "4a63d324-8b43-44f7-9dcf-a62447a877ab",
+    "ts": 1777209257061,
+    "turn": 335,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 13,
+    "before": 87,
+    "after": 74
+  },
+  {
+    "id": "00c7db13-b672-49b9-8f20-ca8c78f5cbfb",
+    "ts": 1777209546162,
+    "turn": 337,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 46,
+    "after": 43
+  },
+  {
+    "id": "4a1a59ff-d6df-464f-a702-085881710772",
+    "ts": 1777209547693,
+    "turn": 339,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 35,
+    "after": 32
+  },
+  {
+    "id": "2bb6338b-7594-45af-818c-c250f56e97c7",
+    "ts": 1777209710344,
+    "turn": 340,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 81,
+    "after": 77
+  },
+  {
+    "id": "88057034-8b2b-49c5-9c84-887446cf935b",
+    "ts": 1777209711189,
+    "turn": 341,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 16,
+    "before": 112,
+    "after": 96
+  },
+  {
+    "id": "18e96ee4-4a7a-42c5-b895-fb1abe7174c0",
+    "ts": 1777209712627,
+    "turn": 343,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 66,
+    "after": 61
+  },
+  {
+    "id": "bcd29b52-791d-4af6-9571-f4d659ab97ae",
+    "ts": 1777209891808,
+    "turn": 344,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 15,
+    "before": 99,
+    "after": 84
+  },
+  {
+    "id": "8c89bcc9-5792-48f4-8013-5110e1814be7",
+    "ts": 1777209894268,
+    "turn": 347,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 4,
+    "before": 32,
+    "after": 28
+  },
+  {
+    "id": "c42a7491-6910-4686-93ef-0f7c90acf140",
+    "ts": 1777210020891,
+    "turn": 349,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 6,
+    "before": 53,
+    "after": 47
+  },
+  {
+    "id": "724a97f6-9f8e-4c33-883c-568f1c7262b6",
+    "ts": 1777210175682,
+    "turn": 353,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 10,
+    "before": 72,
+    "after": 62
+  },
+  {
+    "id": "fdcfcafb-d93a-4f4e-8d44-4091a72936e7",
+    "ts": 1777210177493,
+    "turn": 355,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 85,
+    "after": 78
+  },
+  {
+    "id": "43db1cdb-36fa-4208-9130-f6fb36e8a7cd",
+    "ts": 1777210279519,
+    "turn": 357,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 10,
+    "before": 87,
+    "after": 77
+  },
+  {
+    "id": "fd0bfede-e9d1-43fc-8eb7-8411a717ed48",
+    "ts": 1777210382829,
+    "turn": 360,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 94,
+    "after": 89
+  },
+  {
+    "id": "b7387a14-b55a-43f0-b8cd-a413f1bbc8ef",
+    "ts": 1777210383786,
+    "turn": 361,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 85,
+    "after": 81
+  },
+  {
+    "id": "1a9c4ef9-b63b-4451-83d0-10ed1d684e59",
+    "ts": 1777210484462,
+    "turn": 364,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 11,
+    "before": 90,
+    "after": 79
+  },
+  {
+    "id": "84ce164f-ebb9-4384-afdf-da8f60838eab",
+    "ts": 1777210485951,
+    "turn": 365,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 78,
+    "after": 68
+  },
+  {
+    "id": "02e7112c-5154-462f-9fd2-5876dd19124a",
+    "ts": 1777210487350,
+    "turn": 367,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 76,
+    "after": 71
+  },
+  {
+    "id": "1ae0c8e8-9441-427f-a92a-b3439510902f",
+    "ts": 1777210627519,
+    "turn": 369,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 62,
+    "after": 56
+  },
+  {
+    "id": "5285112f-1f2f-477a-829c-f69e3bd00eb8",
+    "ts": 1777210761947,
+    "turn": 373,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 51,
+    "after": 45
+  },
+  {
+    "id": "0df6b345-6366-4569-ab78-6f15ef4fd2d3",
+    "ts": 1777210763081,
+    "turn": 374,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 63,
+    "after": 54
+  },
+  {
+    "id": "c3d80f5f-3740-4217-949c-091e43ed841f",
+    "ts": 1777210764153,
+    "turn": 375,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 55,
+    "after": 51
+  },
+  {
+    "id": "411c6929-bb9d-47ed-a3e6-b928713a6218",
+    "ts": 1777210890316,
+    "turn": 376,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 20,
+    "before": 141,
+    "after": 121
+  },
+  {
+    "id": "603f06bb-dd04-4825-89ee-bc3593cb8c5c",
+    "ts": 1777210891516,
+    "turn": 377,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 7,
+    "before": 62,
+    "after": 55
+  },
+  {
+    "id": "a57b0bb2-6c6e-4a63-983c-e851cede27e2",
+    "ts": 1777210892350,
+    "turn": 378,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 12,
+    "before": 83,
+    "after": 71
+  },
+  {
+    "id": "e6556d9e-5a9d-429a-a80b-7a67692e5476",
+    "ts": 1777211007602,
+    "turn": 380,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 77,
+    "after": 73
+  },
+  {
+    "id": "3b6b6f41-f197-44eb-a061-796f027f0330",
+    "ts": 1777211085457,
+    "turn": 386,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 51,
+    "after": 45
+  },
+  {
+    "id": "e531e7cf-fb95-4490-a8a0-308d0f3a3e07",
+    "ts": 1777211086859,
+    "turn": 387,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 9,
+    "before": 173,
+    "after": 164
+  },
+  {
+    "id": "c9437582-aef9-4ada-a4e5-94530b58e19b",
+    "ts": 1777211087862,
+    "turn": 388,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 90,
+    "after": 84
+  },
+  {
+    "id": "7a9009c5-3802-4f70-968d-f710e81ef429",
+    "ts": 1777211134284,
+    "turn": 389,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 63,
+    "after": 54
+  },
+  {
+    "id": "18a3af98-892b-481e-9842-e04994f54d92",
+    "ts": 1777211135628,
+    "turn": 391,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 63,
+    "after": 59
+  },
+  {
+    "id": "b9d36d8e-96ad-457b-bbeb-1060c5b93ca2",
+    "ts": 1777211136558,
+    "turn": 392,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 62,
+    "after": 58
+  },
+  {
+    "id": "da2a49a5-20ac-4750-a33e-6dd522f3acf6",
+    "ts": 1777211218191,
+    "turn": 394,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 72,
+    "after": 67
+  },
+  {
+    "id": "a8ed0a59-d8f6-4a2c-b267-438f4fa216c7",
+    "ts": 1777211219459,
+    "turn": 395,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 68,
+    "after": 63
+  },
+  {
+    "id": "2f0bcaac-f32a-4934-bcd6-fcfe57620cdc",
+    "ts": 1777211220324,
+    "turn": 396,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 72,
+    "after": 64
+  },
+  {
+    "id": "ada11f6f-48f7-41bb-81c5-049303f54758",
+    "ts": 1777211311325,
+    "turn": 398,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 7,
+    "before": 57,
+    "after": 50
+  },
+  {
+    "id": "458d3d21-0cf5-4989-a99c-bc10af4526d8",
+    "ts": 1777211312250,
+    "turn": 399,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 8,
+    "before": 128,
+    "after": 120
+  },
+  {
+    "id": "bab02a0b-fdbd-48aa-a6d6-aa5f1d18ce89",
+    "ts": 1777211312962,
+    "turn": 400,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 62,
+    "after": 53
+  },
+  {
+    "id": "5c6ff779-3f4c-41cc-ab5e-c1aa90de8a57",
+    "ts": 1777211330636,
+    "turn": 401,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 61,
+    "after": 52
+  },
+  {
+    "id": "58dc38a5-8e54-4f6b-bac5-2725f05ee5a7",
+    "ts": 1777211331458,
+    "turn": 402,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 8,
+    "before": 65,
+    "after": 57
+  },
+  {
+    "id": "830d85c6-cfee-43f5-87c5-fbc3bf2efdbb",
+    "ts": 1777211362398,
+    "turn": 405,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 53,
+    "after": 49
+  },
+  {
+    "id": "d90e5431-048c-404b-80d4-55d0923cf3b4",
+    "ts": 1777211363461,
+    "turn": 406,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 53,
+    "after": 49
+  },
+  {
+    "id": "b044c034-1640-4dfb-be70-b9db6315cd93",
+    "ts": 1777211364426,
+    "turn": 407,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 21,
+    "before": 164,
+    "after": 143
+  },
+  {
+    "id": "31ab6d0e-9e06-42aa-961b-4ed10a583153",
+    "ts": 1777211365414,
+    "turn": 408,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 57,
+    "after": 52
+  },
+  {
+    "id": "1f39c624-27aa-4a84-bad1-498ace6f5f1a",
+    "ts": 1777211497137,
+    "turn": 409,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 11,
+    "before": 82,
+    "after": 71
+  },
+  {
+    "id": "fd6b713f-38f3-4c62-bc7d-495f48b878d8",
+    "ts": 1777211499467,
+    "turn": 412,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 63,
+    "after": 54
+  },
+  {
+    "id": "36ed7dce-d5c7-4fcf-8f9f-8eba2619e8c0",
+    "ts": 1777211500659,
+    "turn": 413,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 65,
+    "after": 60
+  },
+  {
+    "id": "408fc1ea-209e-45f0-9464-59b739d20293",
+    "ts": 1777211639444,
+    "turn": 414,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 14,
+    "before": 115,
+    "after": 101
+  },
+  {
+    "id": "4b9a6416-b62d-4565-b78d-1517bdcbb3f2",
+    "ts": 1777211689892,
+    "turn": 418,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 66,
+    "after": 61
+  },
+  {
+    "id": "3cb9c73b-cb3f-404e-9d7a-1bf1d1a6d806",
+    "ts": 1777211690658,
+    "turn": 419,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 12,
+    "before": 88,
+    "after": 76
+  },
+  {
+    "id": "e6f7065a-5cef-4f8c-8bd5-0c9d2ddc6afd",
+    "ts": 1777211740960,
+    "turn": 422,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 56,
+    "after": 51
+  },
+  {
+    "id": "fb7827ce-eb2a-4334-941f-3bbea75d3205",
+    "ts": 1777211742823,
+    "turn": 424,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 9,
+    "before": 111,
+    "after": 102
+  },
+  {
+    "id": "02d5e832-359a-494c-b278-f09d3f06ecbd",
+    "ts": 1777211826129,
+    "turn": 427,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 10,
+    "before": 66,
+    "after": 56
+  },
+  {
+    "id": "4840c1fb-074d-4027-9115-1b8ed8437b85",
+    "ts": 1777211826959,
+    "turn": 428,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 9,
+    "before": 112,
+    "after": 103
+  },
+  {
+    "id": "baf2cc34-6b06-4a3e-b5c7-4a5b48eb5159",
+    "ts": 1777211827695,
+    "turn": 429,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 65,
+    "after": 62
+  },
+  {
+    "id": "638cc1fa-6405-42d3-83a2-9584ee946217",
+    "ts": 1777211875553,
+    "turn": 430,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 67,
+    "after": 62
+  },
+  {
+    "id": "52424891-fd04-4f6d-96e9-d798a4162ca6",
+    "ts": 1777211877155,
+    "turn": 433,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 11,
+    "before": 73,
+    "after": 62
+  },
+  {
+    "id": "5c90a7c0-b3be-4136-8892-d67765865bb5",
+    "ts": 1777211921710,
+    "turn": 434,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 77,
+    "after": 69
+  },
+  {
+    "id": "div-1777806555499-8af78adaa01f38",
+    "ts": 1777806555499,
+    "turn": 1,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 23,
+    "before": 166,
+    "after": 143
+  },
+  {
+    "id": "div-1777806556389-7bbfcbdffd38e",
+    "ts": 1777806556389,
+    "turn": 4,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 18,
+    "before": 125,
+    "after": 108
+  },
+  {
+    "id": "div-1777806556406-4f587839c9b9d8",
+    "ts": 1777806556406,
+    "turn": 5,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 64,
+    "after": 61
+  },
+  {
+    "id": "div-1777806556484-b78a6e7034a6a8",
+    "ts": 1777806556484,
+    "turn": 10,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 61,
+    "after": 53
+  },
+  {
+    "id": "div-1777806556502-010ec0838d9f08",
+    "ts": 1777806556502,
+    "turn": 11,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 15,
+    "before": 163,
+    "after": 148
+  },
+  {
+    "id": "div-1777806556551-5f81d38f4c172",
+    "ts": 1777806556551,
+    "turn": 14,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 25,
+    "before": 194,
+    "after": 169
+  },
+  {
+    "id": "div-1777806556601-8832f41ed99a2",
+    "ts": 1777806556601,
+    "turn": 17,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 52,
+    "after": 47
+  },
+  {
+    "id": "div-1777806556616-9938acbe2efba8",
+    "ts": 1777806556616,
+    "turn": 18,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 63,
+    "after": 57
+  },
+  {
+    "id": "div-1777806556632-f724c5383f2fb",
+    "ts": 1777806556632,
+    "turn": 19,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 18,
+    "before": 129,
+    "after": 111
+  },
+  {
+    "id": "div-1777806556721-062d05ee173988",
+    "ts": 1777806556721,
+    "turn": 24,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 70,
+    "after": 62
+  },
+  {
+    "id": "div-1777809026475-e2caf945a236a8",
+    "ts": 1777809026475,
+    "turn": 29,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 3,
+    "before": 27,
+    "after": 24
+  },
+  {
+    "id": "div-1777809027458-81932ee4d3d41",
+    "ts": 1777809027458,
+    "turn": 30,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 16,
+    "before": 106,
+    "after": 90
+  },
+  {
+    "id": "div-1777809028960-66abf6fe2fce1",
+    "ts": 1777809028960,
+    "turn": 32,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 2,
+    "before": 33,
+    "after": 31
+  },
+  {
+    "id": "div-1777809298541-4edb627b8b31a",
+    "ts": 1777809298541,
+    "turn": 36,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 9,
+    "before": 109,
+    "after": 100
+  },
+  {
+    "id": "div-1777809629493-05fa8529fa4c8",
+    "ts": 1777809629493,
+    "turn": 39,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 12,
+    "before": 116,
+    "after": 104
+  },
+  {
+    "id": "div-1777809630759-7c33f566979788",
+    "ts": 1777809630759,
+    "turn": 40,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 5,
+    "before": 39,
+    "after": 34
+  },
+  {
+    "id": "div-1777809631639-0c31fb337838b",
+    "ts": 1777809631639,
+    "turn": 41,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 42,
+    "after": 40
+  },
+  {
+    "id": "div-1777809632574-924afe2035d508",
+    "ts": 1777809632574,
+    "turn": 42,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 18,
+    "before": 128,
+    "after": 110
+  },
+  {
+    "id": "div-1777809891172-f16d6c9b062b48",
+    "ts": 1777809891172,
+    "turn": 43,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 42,
+    "after": 39
+  },
+  {
+    "id": "div-1777809892670-51261f5dd8493",
+    "ts": 1777809892670,
+    "turn": 45,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 10,
+    "before": 111,
+    "after": 101
+  },
+  {
+    "id": "div-1777809893617-837de92ecbbd38",
+    "ts": 1777809893617,
+    "turn": 46,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 15,
+    "before": 138,
+    "after": 123
+  },
+  {
+    "id": "div-1777810367583-78481338c0a77",
+    "ts": 1777810367583,
+    "turn": 51,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 7,
+    "before": 58,
+    "after": 51
+  },
+  {
+    "id": "div-1777810368908-8fb8cb04a1959",
+    "ts": 1777810368908,
+    "turn": 53,
+    "ticker": "YDEX",
+    "pct": 9,
+    "divAmount": 10,
+    "before": 106,
+    "after": 96
+  },
+  {
+    "id": "div-1777810522246-31670bc78b8f4",
+    "ts": 1777810522246,
+    "turn": 55,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 80,
+    "after": 70
+  },
+  {
+    "id": "div-1777810960052-070a3450e7d678",
+    "ts": 1777810960052,
+    "turn": 63,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 11,
+    "before": 76,
+    "after": 65
+  },
+  {
+    "id": "div-1777810961805-8c51e07098f76",
+    "ts": 1777810961805,
+    "turn": 66,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 60,
+    "after": 56
+  },
+  {
+    "id": "div-1777811374553-75f42f9ed406b8",
+    "ts": 1777811374553,
+    "turn": 67,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 58,
+    "after": 55
+  },
+  {
+    "id": "div-1777811597676-942f9ff35ec398",
+    "ts": 1777811597677,
+    "turn": 75,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 88,
+    "after": 84
+  },
+  {
+    "id": "div-1777811916445-2d4270299425e",
+    "ts": 1777811916445,
+    "turn": 78,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 81,
+    "after": 75
+  },
+  {
+    "id": "div-1777812075885-f65cd920e23d5",
+    "ts": 1777812075885,
+    "turn": 79,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 81,
+    "after": 76
+  },
+  {
+    "id": "div-1777812103120-e70c6627abf2e",
+    "ts": 1777812103120,
+    "turn": 80,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 14,
+    "before": 107,
+    "after": 93
+  },
+  {
+    "id": "div-1777812103983-aecc1018c1b048",
+    "ts": 1777812103983,
+    "turn": 81,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 52,
+    "after": 48
+  },
+  {
+    "id": "div-1777812239120-0554043030c06",
+    "ts": 1777812239120,
+    "turn": 83,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 93,
+    "after": 87
+  },
+  {
+    "id": "div-1777812240637-781d8a0bb0e878",
+    "ts": 1777812240637,
+    "turn": 86,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 78,
+    "after": 68
+  },
+  {
+    "id": "div-1777812472345-1ca18938f1bc08",
+    "ts": 1777812472345,
+    "turn": 87,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 63,
+    "after": 54
+  },
+  {
+    "id": "div-1777812474101-275ea86860f6c",
+    "ts": 1777812474101,
+    "turn": 90,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 10,
+    "before": 74,
+    "after": 64
+  },
+  {
+    "id": "div-1777812640262-f61a1cab57496",
+    "ts": 1777812640262,
+    "turn": 91,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 7,
+    "before": 74,
+    "after": 67
+  },
+  {
+    "id": "div-1777812851139-3510670fb4093",
+    "ts": 1777812851139,
+    "turn": 95,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 105,
+    "after": 98
+  },
+  {
+    "id": "div-1777812852235-0e4fa715480d9",
+    "ts": 1777812852235,
+    "turn": 97,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 44,
+    "after": 39
+  },
+  {
+    "id": "div-1777813070340-a3ec9c82a156c",
+    "ts": 1777813070340,
+    "turn": 99,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 96,
+    "after": 91
+  },
+  {
+    "id": "div-1777813441510-b2310bd01ae47",
+    "ts": 1777813441510,
+    "turn": 107,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 64,
+    "after": 60
+  },
+  {
+    "id": "div-1777813442483-c406bfd554469",
+    "ts": 1777813442483,
+    "turn": 108,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 80,
+    "after": 72
+  },
+  {
+    "id": "div-1777813443818-0bf08e5bf66598",
+    "ts": 1777813443818,
+    "turn": 110,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 59,
+    "after": 51
+  },
+  {
+    "id": "div-1777813616381-201919936a0b7",
+    "ts": 1777813616381,
+    "turn": 114,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 58,
+    "after": 55
+  },
+  {
+    "id": "div-1777813890588-956625def30a4",
+    "ts": 1777813890588,
+    "turn": 115,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 43,
+    "after": 40
+  },
+  {
+    "id": "div-1777813891680-edbe11c43dd2",
+    "ts": 1777813891680,
+    "turn": 117,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 46,
+    "after": 42
+  },
+  {
+    "id": "div-1777814099043-d20b0bbc039eb8",
+    "ts": 1777814099043,
+    "turn": 120,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 8,
+    "before": 119,
+    "after": 111
+  },
+  {
+    "id": "div-1777814292475-4bfce1b404c778",
+    "ts": 1777814292475,
+    "turn": 122,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 55,
+    "after": 48
+  },
+  {
+    "id": "div-1777814293649-23384b05083ec8",
+    "ts": 1777814293649,
+    "turn": 124,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 5,
+    "before": 32,
+    "after": 27
+  },
+  {
+    "id": "div-1777814431589-b764239843e6f",
+    "ts": 1777814431589,
+    "turn": 126,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 5,
+    "before": 42,
+    "after": 37
+  },
+  {
+    "id": "div-1777814681235-9fa86bfa63b76",
+    "ts": 1777814681235,
+    "turn": 128,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 59,
+    "after": 53
+  },
+  {
+    "id": "div-1777814682821-e14748afbb99f8",
+    "ts": 1777814682821,
+    "turn": 131,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 9,
+    "before": 73,
+    "after": 64
+  },
+  {
+    "id": "div-1777814781066-59aa85a3aacb8",
+    "ts": 1777814781066,
+    "turn": 132,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 7,
+    "before": 117,
+    "after": 110
+  },
+  {
+    "id": "div-1777814781592-16a132b3ae3a8",
+    "ts": 1777814781592,
+    "turn": 133,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 51,
+    "after": 47
+  },
+  {
+    "id": "div-1777814782392-60fed27ad5a67",
+    "ts": 1777814782392,
+    "turn": 134,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 56,
+    "after": 49
+  },
+  {
+    "id": "div-1777814997003-3ec4fa60838f88",
+    "ts": 1777814997004,
+    "turn": 138,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 8,
+    "before": 64,
+    "after": 56
+  },
+  {
+    "id": "div-1777815065281-3106945575656",
+    "ts": 1777815065281,
+    "turn": 142,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 40,
+    "after": 36
+  },
+  {
+    "id": "div-1777815067087-799cd0db4dd7d8",
+    "ts": 1777815067087,
+    "turn": 145,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 47,
+    "after": 44
+  },
+  {
+    "id": "div-1777815213188-7209b4c91a0ee8",
+    "ts": 1777815213188,
+    "turn": 147,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 12,
+    "before": 79,
+    "after": 67
+  },
+  {
+    "id": "div-1777815307053-99babc57332298",
+    "ts": 1777815307053,
+    "turn": 152,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 45,
+    "after": 39
+  },
+  {
+    "id": "div-1777815407045-ed1b0e31c042",
+    "ts": 1777815407045,
+    "turn": 155,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 5,
+    "before": 52,
+    "after": 47
+  },
+  {
+    "id": "div-1777815407851-d0acb068579f9",
+    "ts": 1777815407851,
+    "turn": 156,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 45,
+    "after": 41
+  },
+  {
+    "id": "div-1777815586065-84bab542ab1978",
+    "ts": 1777815586065,
+    "turn": 157,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 63,
+    "after": 58
+  },
+  {
+    "id": "div-1777815586856-992f307c0c1428",
+    "ts": 1777815586856,
+    "turn": 158,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 46,
+    "after": 40
+  },
+  {
+    "id": "div-1777815587611-19c509d9bbb97",
+    "ts": 1777815587611,
+    "turn": 159,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 56,
+    "after": 52
+  },
+  {
+    "id": "div-1777815709609-f11998b9f30f28",
+    "ts": 1777815709609,
+    "turn": 161,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 6,
+    "before": 44,
+    "after": 38
+  },
+  {
+    "id": "div-1777815711243-44907c5e323eb",
+    "ts": 1777815711243,
+    "turn": 165,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 62,
+    "after": 53
+  },
+  {
+    "id": "div-1777815794740-92c4e03f45ef58",
+    "ts": 1777815794740,
+    "turn": 167,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 53,
+    "after": 50
+  },
+  {
+    "id": "div-1777815795547-47c23c34fa94e8",
+    "ts": 1777815795547,
+    "turn": 168,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 13,
+    "before": 89,
+    "after": 76
+  },
+  {
+    "id": "div-1777815796441-4b85837baead8",
+    "ts": 1777815796441,
+    "turn": 169,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 55,
+    "after": 52
+  },
+  {
+    "id": "div-1777815885674-aa827ccd8407d8",
+    "ts": 1777815885674,
+    "turn": 171,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 7,
+    "before": 49,
+    "after": 42
+  },
+  {
+    "id": "div-1777815886905-f77207f02af9c",
+    "ts": 1777815886905,
+    "turn": 173,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 36,
+    "after": 33
+  },
+  {
+    "id": "div-1777815960979-d443adbdccd1",
+    "ts": 1777815960979,
+    "turn": 174,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 40,
+    "after": 37
+  },
+  {
+    "id": "div-1777816120742-76927d8c95705",
+    "ts": 1777816120742,
+    "turn": 177,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 57,
+    "after": 48
+  },
+  {
+    "id": "div-1777816120758-7131d66a4322d",
+    "ts": 1777816120758,
+    "turn": 178,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 47,
+    "after": 44
+  },
+  {
+    "id": "div-1777816120819-901436a35ab938",
+    "ts": 1777816120819,
+    "turn": 180,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 85,
+    "after": 75
+  },
+  {
+    "id": "div-1777816120852-1d6e224e3502a",
+    "ts": 1777816120852,
+    "turn": 182,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 7,
+    "before": 47,
+    "after": 40
+  },
+  {
+    "id": "div-1777816120884-0e2662c8853cf8",
+    "ts": 1777816120884,
+    "turn": 184,
+    "ticker": "YDEX",
+    "pct": 9,
+    "divAmount": 12,
+    "before": 135,
+    "after": 123
+  },
+  {
+    "id": "div-1777816120900-adbfa70884ef2",
+    "ts": 1777816120900,
+    "turn": 185,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 88,
+    "after": 84
+  },
+  {
+    "id": "div-1777816120917-41578b843d1d3",
+    "ts": 1777816120917,
+    "turn": 186,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 9,
+    "before": 69,
+    "after": 60
+  },
+  {
+    "id": "div-1777816202854-9c848dc4af7728",
+    "ts": 1777816202854,
+    "turn": 187,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 10,
+    "before": 69,
+    "after": 59
+  },
+  {
+    "id": "div-1777816202904-58fcedf3f5f268",
+    "ts": 1777816202904,
+    "turn": 190,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 7,
+    "before": 122,
+    "after": 115
+  },
+  {
+    "id": "div-1777816202924-5c2630d3d191a8",
+    "ts": 1777816202924,
+    "turn": 191,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 78,
+    "after": 70
+  },
+  {
+    "id": "div-1777816202958-63edc1016a68b8",
+    "ts": 1777816202958,
+    "turn": 193,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 52,
+    "after": 48
+  },
+  {
+    "id": "div-1777816202973-2afb0e82c9dd28",
+    "ts": 1777816202973,
+    "turn": 194,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 20,
+    "before": 135,
+    "after": 115
+  },
+  {
+    "id": "div-1777816203022-7782502951bd",
+    "ts": 1777816203022,
+    "turn": 197,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 65,
+    "after": 60
+  },
+  {
+    "id": "div-1777816203038-2bc7c20a4d0f48",
+    "ts": 1777816203038,
+    "turn": 198,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 7,
+    "before": 47,
+    "after": 40
+  },
+  {
+    "id": "div-1777816203071-94411945325348",
+    "ts": 1777816203071,
+    "turn": 200,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 54,
+    "after": 48
+  },
+  {
+    "id": "div-1777816203089-cd7bce425a645",
+    "ts": 1777816203089,
+    "turn": 201,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 7,
+    "before": 51,
+    "after": 44
+  },
+  {
+    "id": "div-1777816203105-8018916bc39018",
+    "ts": 1777816203105,
+    "turn": 202,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 76,
+    "after": 71
+  },
+  {
+    "id": "div-1777816203121-095062b0c3907",
+    "ts": 1777816203121,
+    "turn": 203,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 65,
+    "after": 60
+  },
+  {
+    "id": "div-1777816203158-16a52148e22628",
+    "ts": 1777816203158,
+    "turn": 205,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 44,
+    "after": 41
+  },
+  {
+    "id": "div-1777816203174-2dae196cb605",
+    "ts": 1777816203174,
+    "turn": 206,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 64,
+    "after": 55
+  },
+  {
+    "id": "div-1777816303720-0f2778b23de8d8",
+    "ts": 1777816303720,
+    "turn": 208,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 65,
+    "after": 60
+  },
+  {
+    "id": "div-1777816303736-defffc3f7cf4e8",
+    "ts": 1777816303736,
+    "turn": 209,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 1,
+    "before": 22,
+    "after": 21
+  },
+  {
+    "id": "div-1777816303768-28ec460506e4d",
+    "ts": 1777816303768,
+    "turn": 211,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 11,
+    "before": 85,
+    "after": 74
+  },
+  {
+    "id": "div-1777816303797-ecebea4e16ef7",
+    "ts": 1777816303797,
+    "turn": 213,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 80,
+    "after": 70
+  },
+  {
+    "id": "div-1777816303814-bb83cce9b24728",
+    "ts": 1777816303814,
+    "turn": 214,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 52,
+    "after": 45
+  },
+  {
+    "id": "div-1777816400764-f4d2e6dafbbef",
+    "ts": 1777816400764,
+    "turn": 216,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 2,
+    "before": 24,
+    "after": 22
+  },
+  {
+    "id": "div-1777816400784-ce29b526250048",
+    "ts": 1777816400784,
+    "turn": 217,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 51,
+    "after": 46
+  },
+  {
+    "id": "div-1777816400813-9db48f2727db5",
+    "ts": 1777816400813,
+    "turn": 219,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 3,
+    "before": 21,
+    "after": 18
+  },
+  {
+    "id": "div-1777816400843-5ad3b140fbe41",
+    "ts": 1777816400843,
+    "turn": 221,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 10,
+    "before": 93,
+    "after": 83
+  },
+  {
+    "id": "div-1777816400860-cf67bacd669fe",
+    "ts": 1777816400860,
+    "turn": 222,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 13,
+    "before": 90,
+    "after": 77
+  },
+  {
+    "id": "div-1777816400891-54aa418caeb2b8",
+    "ts": 1777816400891,
+    "turn": 224,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 3,
+    "before": 20,
+    "after": 17
+  },
+  {
+    "id": "div-1777816400908-9fbc022b5c7ce",
+    "ts": 1777816400908,
+    "turn": 225,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 4,
+    "before": 30,
+    "after": 26
+  },
+  {
+    "id": "div-1777816400940-cd89a6c67188a8",
+    "ts": 1777816400940,
+    "turn": 227,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 65,
+    "after": 60
+  },
+  {
+    "id": "div-1777816400956-aff6368ebfd378",
+    "ts": 1777816400956,
+    "turn": 228,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 17,
+    "before": 129,
+    "after": 112
+  },
+  {
+    "id": "div-1777816400973-2b885fdba72678",
+    "ts": 1777816400973,
+    "turn": 229,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 57,
+    "after": 53
+  },
+  {
+    "id": "div-1777816400989-09f8212d9ca408",
+    "ts": 1777816400989,
+    "turn": 230,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 102,
+    "after": 96
+  },
+  {
+    "id": "div-1777816401005-cccaf9a9a2dac",
+    "ts": 1777816401005,
+    "turn": 231,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 78,
+    "after": 74
+  },
+  {
+    "id": "div-1777816401021-c8fe9d89f17db8",
+    "ts": 1777816401021,
+    "turn": 232,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 10,
+    "before": 87,
+    "after": 77
+  },
+  {
+    "id": "div-1777816401070-dcd8dd0a4475e",
+    "ts": 1777816401070,
+    "turn": 235,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 60,
+    "after": 54
+  },
+  {
+    "id": "div-1777816401087-f586f14d40d67",
+    "ts": 1777816401087,
+    "turn": 236,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 6,
+    "before": 54,
+    "after": 48
+  },
+  {
+    "id": "div-1777816401154-f178e6dcac6eb",
+    "ts": 1777816401154,
+    "turn": 240,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 84,
+    "after": 80
+  },
+  {
+    "id": "div-1777816401238-157e667d61611",
+    "ts": 1777816401238,
+    "turn": 245,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 45,
+    "after": 40
+  },
+  {
+    "id": "div-1777816401305-00328c5556b848",
+    "ts": 1777816401305,
+    "turn": 249,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 11,
+    "before": 80,
+    "after": 69
+  },
+  {
+    "id": "div-1777816750959-d7e927b09b7e78",
+    "ts": 1777816750959,
+    "turn": 251,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 47,
+    "after": 41
+  },
+  {
+    "id": "div-1777816750975-91a1f738d72d2",
+    "ts": 1777816750975,
+    "turn": 252,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 4,
+    "before": 29,
+    "after": 25
+  },
+  {
+    "id": "div-1777816751000-c16e802643ad08",
+    "ts": 1777816751000,
+    "turn": 253,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 9,
+    "before": 66,
+    "after": 57
+  },
+  {
+    "id": "div-1777816751012-45a177cfb4c55",
+    "ts": 1777816751012,
+    "turn": 254,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 62,
+    "after": 53
+  },
+  {
+    "id": "div-1777816751059-053dab2e723318",
+    "ts": 1777816751059,
+    "turn": 257,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 2,
+    "before": 28,
+    "after": 26
+  },
+  {
+    "id": "div-1777816751125-62f0a09466d448",
+    "ts": 1777816751125,
+    "turn": 261,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 78,
+    "after": 73
+  },
+  {
+    "id": "div-1777816751141-2bc43ce5cf3228",
+    "ts": 1777816751141,
+    "turn": 262,
+    "ticker": "MTSS",
+    "pct": 11,
+    "divAmount": 9,
+    "before": 83,
+    "after": 74
+  },
+  {
+    "id": "div-1777816751190-b15879a009ca2",
+    "ts": 1777816751190,
+    "turn": 265,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 16,
+    "before": 115,
+    "after": 99
+  },
+  {
+    "id": "div-1777816751225-211cc036d2e85",
+    "ts": 1777816751225,
+    "turn": 267,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 11,
+    "before": 89,
+    "after": 78
+  },
+  {
+    "id": "div-1777816751241-c1c5721fe59ec8",
+    "ts": 1777816751241,
+    "turn": 268,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 5,
+    "before": 48,
+    "after": 43
+  },
+  {
+    "id": "div-1777816751257-229f48795501d8",
+    "ts": 1777816751257,
+    "turn": 269,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 78,
+    "after": 72
+  },
+  {
+    "id": "div-1777816751306-0ff8ec8eea36e8",
+    "ts": 1777816751306,
+    "turn": 272,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 75,
+    "after": 69
+  },
+  {
+    "id": "div-1777816751356-297f9c8f51fe18",
+    "ts": 1777816751356,
+    "turn": 275,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 13,
+    "before": 111,
+    "after": 98
+  },
+  {
+    "id": "div-1777816751372-12cb99a39a4fa8",
+    "ts": 1777816751372,
+    "turn": 276,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 13,
+    "before": 99,
+    "after": 86
+  },
+  {
+    "id": "div-1777816751388-05897f4fd378f",
+    "ts": 1777816751388,
+    "turn": 277,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 55,
+    "after": 51
+  },
+  {
+    "id": "div-1778411515442-72de339d04b6",
+    "ts": 1778411515442,
+    "turn": 1,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 5,
+    "before": 42,
+    "after": 37
+  },
+  {
+    "id": "div-1778411516349-1a5ef111b88d28",
+    "ts": 1778411516349,
+    "turn": 2,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 56,
+    "after": 52
+  },
+  {
+    "id": "div-1778411662663-31d1da211bea9",
+    "ts": 1778411662663,
+    "turn": 5,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 64,
+    "after": 56
+  },
+  {
+    "id": "div-1778411663827-eb70845b3d109",
+    "ts": 1778411663827,
+    "turn": 7,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 5,
+    "before": 53,
+    "after": 48
+  },
+  {
+    "id": "div-1778411664704-50611728fe849",
+    "ts": 1778411664704,
+    "turn": 8,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 103,
+    "after": 96
+  },
+  {
+    "id": "div-1778411803784-504ea91fb48f6",
+    "ts": 1778411803784,
+    "turn": 9,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 88,
+    "after": 84
+  },
+  {
+    "id": "div-1778411804571-3701c288415be8",
+    "ts": 1778411804571,
+    "turn": 10,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 67,
+    "after": 64
+  },
+  {
+    "id": "div-1778411977898-ba33ed6af21a8",
+    "ts": 1778411977898,
+    "turn": 13,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 8,
+    "before": 56,
+    "after": 48
+  },
+  {
+    "id": "div-1778411979497-16d10c430f0d5",
+    "ts": 1778411979497,
+    "turn": 16,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 7,
+    "before": 67,
+    "after": 60
+  },
+  {
+    "id": "div-1778412039478-192506ed51336",
+    "ts": 1778412039478,
+    "turn": 18,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 11,
+    "before": 83,
+    "after": 72
+  },
+  {
+    "id": "div-1778412239332-205df33a987a78",
+    "ts": 1778412239332,
+    "turn": 23,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 63,
+    "after": 55
+  },
+  {
+    "id": "div-1778412316446-601a6740edd308",
+    "ts": 1778412316447,
+    "turn": 26,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 11,
+    "before": 72,
+    "after": 61
+  },
+  {
+    "id": "div-1778412317233-973d857d4095c",
+    "ts": 1778412317233,
+    "turn": 27,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 8,
+    "before": 104,
+    "after": 96
+  },
+  {
+    "id": "div-1778412318241-7683b577893198",
+    "ts": 1778412318241,
+    "turn": 28,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 76,
+    "after": 70
+  },
+  {
+    "id": "div-1778412436164-c8536c6e13df98",
+    "ts": 1778412436164,
+    "turn": 29,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 10,
+    "before": 93,
+    "after": 83
+  },
+  {
+    "id": "div-1778412436819-c9c547c2ff1008",
+    "ts": 1778412436819,
+    "turn": 30,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 48,
+    "after": 42
+  },
+  {
+    "id": "div-1778412437686-a7ac156b60b5d8",
+    "ts": 1778412437686,
+    "turn": 32,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 84,
+    "after": 78
+  },
+  {
+    "id": "div-1778412584667-20ac5111958588",
+    "ts": 1778412584667,
+    "turn": 33,
+    "ticker": "YDEX",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 87,
+    "after": 77
+  },
+  {
+    "id": "div-1778412585310-e6352f3addd5e8",
+    "ts": 1778412585310,
+    "turn": 34,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 13,
+    "before": 96,
+    "after": 83
+  },
+  {
+    "id": "div-1778412585900-0b88f67a41fe5",
+    "ts": 1778412585900,
+    "turn": 35,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 8,
+    "before": 96,
+    "after": 88
+  },
+  {
+    "id": "div-1778412751792-b5abfba32f21a8",
+    "ts": 1778412751792,
+    "turn": 37,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 79,
+    "after": 69
+  },
+  {
+    "id": "div-1778412752430-d8806dd7c6ed4",
+    "ts": 1778412752430,
+    "turn": 38,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 10,
+    "before": 104,
+    "after": 94
+  },
+  {
+    "id": "div-1778412752917-26a44803c97bc8",
+    "ts": 1778412752917,
+    "turn": 39,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 108,
+    "after": 102
+  },
+  {
+    "id": "div-1778412877577-003f10e0cf7e58",
+    "ts": 1778412877577,
+    "turn": 41,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 47,
+    "after": 41
+  },
+  {
+    "id": "div-1778412991540-e430a14f754dc8",
+    "ts": 1778412991540,
+    "turn": 45,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 10,
+    "before": 97,
+    "after": 87
+  },
+  {
+    "id": "div-1778412992337-49a8a04cb95b98",
+    "ts": 1778412992337,
+    "turn": 46,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 46,
+    "after": 42
+  },
+  {
+    "id": "div-1778412992986-67e881a6086e68",
+    "ts": 1778412992986,
+    "turn": 47,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 76,
+    "after": 66
+  },
+  {
+    "id": "div-1778412993754-57cbabeacf5a58",
+    "ts": 1778412993754,
+    "turn": 48,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 11,
+    "before": 75,
+    "after": 64
+  },
+  {
+    "id": "div-1778413105037-57989a2b18be58",
+    "ts": 1778413105037,
+    "turn": 49,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 2,
+    "before": 41,
+    "after": 39
+  },
+  {
+    "id": "div-1778413106292-16ee667c561b58",
+    "ts": 1778413106292,
+    "turn": 50,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 11,
+    "before": 78,
+    "after": 67
+  },
+  {
+    "id": "div-1778413107321-d73f3fa90a34a",
+    "ts": 1778413107321,
+    "turn": 51,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 9,
+    "before": 81,
+    "after": 72
+  },
+  {
+    "id": "div-1778413255352-07f38225a954b",
+    "ts": 1778413255353,
+    "turn": 55,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 80,
+    "after": 70
+  },
+  {
+    "id": "div-1778413257290-1d91df510a2178",
+    "ts": 1778413257290,
+    "turn": 56,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 42,
+    "after": 40
+  },
+  {
+    "id": "div-1778413376573-24454e1b5303d",
+    "ts": 1778413376573,
+    "turn": 57,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 77,
+    "after": 72
+  },
+  {
+    "id": "div-1778413378034-7883098bf6b3e",
+    "ts": 1778413378034,
+    "turn": 58,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 40,
+    "after": 36
+  },
+  {
+    "id": "div-1778413475709-42af84a2c6d3",
+    "ts": 1778413475709,
+    "turn": 62,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 4,
+    "before": 33,
+    "after": 29
+  },
+  {
+    "id": "div-1778413653420-d5204a521b1718",
+    "ts": 1778413653420,
+    "turn": 66,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 9,
+    "before": 94,
+    "after": 85
+  },
+  {
+    "id": "div-1778413654408-33ee4e0f364ef8",
+    "ts": 1778413654408,
+    "turn": 68,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 56,
+    "after": 52
+  },
+  {
+    "id": "div-1778413843394-298c6d405d88e8",
+    "ts": 1778413843394,
+    "turn": 72,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 44,
+    "after": 40
+  },
+  {
+    "id": "div-1778413982510-3eedef284a20b",
+    "ts": 1778413982510,
+    "turn": 73,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 44,
+    "after": 42
+  },
+  {
+    "id": "div-1778414230237-e60b3c0d4c5e98",
+    "ts": 1778414230237,
+    "turn": 81,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 54,
+    "after": 50
+  },
+  {
+    "id": "div-1778414291538-ebbebad57bad9",
+    "ts": 1778414291538,
+    "turn": 85,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 52,
+    "after": 48
+  },
+  {
+    "id": "div-1778414406013-edfde57e4697e",
+    "ts": 1778414406013,
+    "turn": 86,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 10,
+    "before": 69,
+    "after": 59
+  },
+  {
+    "id": "div-1778414549444-f6bcebe6859c98",
+    "ts": 1778414549444,
+    "turn": 93,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 95,
+    "after": 90
+  },
+  {
+    "id": "div-1778414746683-d9b213e1c0ee3",
+    "ts": 1778414746683,
+    "turn": 94,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 68,
+    "after": 65
+  },
+  {
+    "id": "div-1778414845702-d272457a7d6c78",
+    "ts": 1778414845702,
+    "turn": 99,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 56,
+    "after": 49
+  },
+  {
+    "id": "div-1778414846412-3fc9aa2fbf1838",
+    "ts": 1778414846412,
+    "turn": 100,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 45,
+    "after": 41
+  },
+  {
+    "id": "div-1778414847126-b81b5da62348b8",
+    "ts": 1778414847126,
+    "turn": 101,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 72,
+    "after": 64
+  },
+  {
+    "id": "div-1778414999878-53303e6e912ed8",
+    "ts": 1778414999878,
+    "turn": 102,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 68,
+    "after": 65
+  },
+  {
+    "id": "div-1778415165848-6781f54c803c88",
+    "ts": 1778415165848,
+    "turn": 108,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 80,
+    "after": 75
+  },
+  {
+    "id": "div-1778415166954-c64680f5936b5",
+    "ts": 1778415166954,
+    "turn": 109,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 8,
+    "before": 66,
+    "after": 58
+  },
+  {
+    "id": "div-1778415244515-6d8c3fc74249b",
+    "ts": 1778415244515,
+    "turn": 111,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 66,
+    "after": 63
+  },
+  {
+    "id": "div-1778415245189-6e04b3bf5e7da8",
+    "ts": 1778415245189,
+    "turn": 112,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 7,
+    "before": 81,
+    "after": 74
+  },
+  {
+    "id": "div-1778415338501-549b744c71a108",
+    "ts": 1778415338501,
+    "turn": 113,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 12,
+    "before": 94,
+    "after": 82
+  },
+  {
+    "id": "div-1778415339894-7343495b7cd57",
+    "ts": 1778415339894,
+    "turn": 115,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 91,
+    "after": 86
+  },
+  {
+    "id": "div-1778415415376-072653bed6d608",
+    "ts": 1778415415376,
+    "turn": 118,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 81,
+    "after": 73
+  },
+  {
+    "id": "div-1778415573927-c55ac12f4bfd6",
+    "ts": 1778415573927,
+    "turn": 122,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 10,
+    "before": 67,
+    "after": 57
+  },
+  {
+    "id": "div-1778415574820-b2a7e352abada8",
+    "ts": 1778415574820,
+    "turn": 124,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 70,
+    "after": 62
+  },
+  {
+    "id": "div-1778415657620-db82084a4d37e",
+    "ts": 1778415657620,
+    "turn": 128,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 55,
+    "after": 51
+  },
+  {
+    "id": "div-1778415924671-9d2d91a50d4a4",
+    "ts": 1778415924671,
+    "turn": 129,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 38,
+    "after": 36
+  },
+  {
+    "id": "div-1778415925178-9778a84062ed8",
+    "ts": 1778415925178,
+    "turn": 130,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 69,
+    "after": 66
+  },
+  {
+    "id": "div-1778415925697-b7c606c1ef7d28",
+    "ts": 1778415925697,
+    "turn": 131,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 12,
+    "before": 81,
+    "after": 69
+  },
+  {
+    "id": "div-1778416058218-6a07b997eef108",
+    "ts": 1778416058218,
+    "turn": 133,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 68,
+    "after": 63
+  },
+  {
+    "id": "div-1778416058784-6f83ba3470f12",
+    "ts": 1778416058784,
+    "turn": 134,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 83,
+    "after": 73
+  },
+  {
+    "id": "div-1778416059349-bcd8360ef1617",
+    "ts": 1778416059349,
+    "turn": 135,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 46,
+    "after": 42
+  },
+  {
+    "id": "div-1778416059968-55e5e7365ad9c8",
+    "ts": 1778416059968,
+    "turn": 136,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 96,
+    "after": 91
+  },
+  {
+    "id": "div-1778416200756-af54cd9a4677a",
+    "ts": 1778416200756,
+    "turn": 138,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 71,
+    "after": 65
+  },
+  {
+    "id": "div-1778416201753-3c418999b8eaa",
+    "ts": 1778416201753,
+    "turn": 140,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 62,
+    "after": 57
+  },
+  {
+    "id": "div-1778416242328-1e0a1aae09d02",
+    "ts": 1778416242328,
+    "turn": 143,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 7,
+    "before": 46,
+    "after": 39
+  },
+  {
+    "id": "div-1778416242973-617064e49e6bf8",
+    "ts": 1778416242973,
+    "turn": 144,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 73,
+    "after": 65
+  },
+  {
+    "id": "div-1778416363384-afc7cebcd8e1d",
+    "ts": 1778416363384,
+    "turn": 148,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 43,
+    "after": 37
+  },
+  {
+    "id": "div-1778416484799-5763ad9e664c68",
+    "ts": 1778416484799,
+    "turn": 149,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 48,
+    "after": 44
+  },
+  {
+    "id": "div-1778416574978-67010883839548",
+    "ts": 1778416574978,
+    "turn": 153,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 54,
+    "after": 51
+  },
+  {
+    "id": "div-1778416575853-df641306094c2",
+    "ts": 1778416575853,
+    "turn": 155,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 3,
+    "before": 29,
+    "after": 26
+  },
+  {
+    "id": "div-1778416677284-0f1af3138be058",
+    "ts": 1778416677284,
+    "turn": 158,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 37,
+    "after": 35
+  },
+  {
+    "id": "div-1778416677852-8cca149bd96ba",
+    "ts": 1778416677852,
+    "turn": 159,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 56,
+    "after": 52
+  },
+  {
+    "id": "div-1778416678432-ddbc81771a0648",
+    "ts": 1778416678432,
+    "turn": 160,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 64,
+    "after": 55
+  },
+  {
+    "id": "div-1778416753799-2df327aa2f50e",
+    "ts": 1778416753799,
+    "turn": 161,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 60,
+    "after": 52
+  },
+  {
+    "id": "div-1778416857029-6dbc00fdb6e088",
+    "ts": 1778416857029,
+    "turn": 165,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 75,
+    "after": 67
+  },
+  {
+    "id": "div-1778416858001-9ee75fdac34fb",
+    "ts": 1778416858001,
+    "turn": 167,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 2,
+    "before": 30,
+    "after": 28
+  },
+  {
+    "id": "div-1778416858743-71d69148ec915",
+    "ts": 1778416858743,
+    "turn": 168,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 64,
+    "after": 58
+  },
+  {
+    "id": "div-1778416935770-22f026142a03e",
+    "ts": 1778416935770,
+    "turn": 170,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 9,
+    "before": 73,
+    "after": 64
+  },
+  {
+    "id": "div-1778416936759-d4a91ccd00fa28",
+    "ts": 1778416936759,
+    "turn": 172,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 78,
+    "after": 73
+  },
+  {
+    "id": "div-1778417110687-b09e308107f3b8",
+    "ts": 1778417110687,
+    "turn": 174,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 46,
+    "after": 40
+  },
+  {
+    "id": "div-1778417111368-b8847feae2309",
+    "ts": 1778417111368,
+    "turn": 175,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 8,
+    "before": 89,
+    "after": 81
+  },
+  {
+    "id": "div-1778417112093-0ce606eca212a",
+    "ts": 1778417112093,
+    "turn": 176,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 46,
+    "after": 44
+  },
+  {
+    "id": "div-1778417272766-3d089815d712d",
+    "ts": 1778417272766,
+    "turn": 177,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 2,
+    "before": 26,
+    "after": 24
+  },
+  {
+    "id": "div-1778417273344-d495ddb005cc4",
+    "ts": 1778417273344,
+    "turn": 178,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 62,
+    "after": 54
+  },
+  {
+    "id": "div-1778417358824-df02445d489ce8",
+    "ts": 1778417358824,
+    "turn": 184,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 43,
+    "after": 39
+  },
+  {
+    "id": "div-1778417468378-95545c8e6518",
+    "ts": 1778417468378,
+    "turn": 185,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 57,
+    "after": 54
+  },
+  {
+    "id": "div-1778417469250-f94775f9ae12e8",
+    "ts": 1778417469250,
+    "turn": 187,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 7,
+    "before": 48,
+    "after": 41
+  },
+  {
+    "id": "div-1778417469959-65271a9463fad8",
+    "ts": 1778417469959,
+    "turn": 188,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 5,
+    "before": 41,
+    "after": 36
+  },
+  {
+    "id": "div-1778417640618-f02dff7c06559",
+    "ts": 1778417640618,
+    "turn": 190,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 58,
+    "after": 55
+  },
+  {
+    "id": "div-1778417643044-9688a11f3256e8",
+    "ts": 1778417643044,
+    "turn": 192,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 96,
+    "after": 91
+  },
+  {
+    "id": "div-1778417711636-352eb9f511ae",
+    "ts": 1778417711636,
+    "turn": 193,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 5,
+    "before": 36,
+    "after": 31
+  },
+  {
+    "id": "div-1778417712334-f6b523ed7a06",
+    "ts": 1778417712334,
+    "turn": 194,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 5,
+    "before": 49,
+    "after": 44
+  },
+  {
+    "id": "div-1778417713373-a6da1456b9154",
+    "ts": 1778417713373,
+    "turn": 196,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 78,
+    "after": 70
+  },
+  {
+    "id": "div-1778417782774-3f4dbfdb5db12",
+    "ts": 1778417782774,
+    "turn": 198,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 55,
+    "after": 51
+  },
+  {
+    "id": "f6b65957-312d-4812-af32-8a0549395a26",
+    "ts": 1779618920903,
+    "turn": 438,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 11,
+    "before": 104,
+    "after": 93
+  },
+  {
+    "id": "24d062c8-64a6-4815-ae58-0f610471a28c",
+    "ts": 1779618920993,
+    "turn": 441,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 9,
+    "before": 78,
+    "after": 69
+  },
+  {
+    "id": "f9475620-805a-41de-a9bb-9d8f8bd4c564",
+    "ts": 1779618921009,
+    "turn": 442,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 81,
+    "after": 76
+  },
+  {
+    "id": "64560925-77eb-43f6-a806-ad0c57656df7",
+    "ts": 1779618921050,
+    "turn": 444,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 5,
+    "before": 34,
+    "after": 29
+  },
+  {
+    "id": "bd564774-fca7-4ac8-b4e2-6716b30a4a94",
+    "ts": 1779618921102,
+    "turn": 447,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 7,
+    "before": 73,
+    "after": 66
+  },
+  {
+    "id": "b1f485fb-a702-446e-8b5c-8d299792e4c5",
+    "ts": 1779620560402,
+    "turn": 452,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 3,
+    "before": 38,
+    "after": 35
+  },
+  {
+    "id": "c049a62b-303b-466e-8118-90736a39a76c",
+    "ts": 1779620560446,
+    "turn": 455,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 18,
+    "before": 139,
+    "after": 121
+  },
+  {
+    "id": "6c736859-f547-48b7-9ab6-62f0c3d7203a",
+    "ts": 1779620560498,
+    "turn": 458,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 7,
+    "before": 114,
+    "after": 107
+  },
+  {
+    "id": "706d74db-6407-4b08-aa5f-0070ba3f1c06",
+    "ts": 1779620560595,
+    "turn": 464,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 11,
+    "before": 124,
+    "after": 113
+  },
+  {
+    "id": "f218ba93-4e8a-437c-939b-c9a9f532dfe0",
+    "ts": 1779620560696,
+    "turn": 470,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 20,
+    "before": 140,
+    "after": 120
+  },
+  {
+    "id": "b54b00db-40a7-443a-8d89-bb5c0e98493f",
+    "ts": 1779620560733,
+    "turn": 472,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 128,
+    "after": 122
+  },
+  {
+    "id": "a36ec3f9-1120-4a51-9a5e-0299cb7ced27",
+    "ts": 1779620560844,
+    "turn": 479,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 9,
+    "before": 179,
+    "after": 170
+  },
+  {
+    "id": "1c6f965d-7c46-467f-9632-09a15b1ee1d2",
+    "ts": 1779620560861,
+    "turn": 480,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 93,
+    "after": 86
+  },
+  {
+    "id": "4da915d1-7263-4db7-a736-637ce40fed6e",
+    "ts": 1779620560894,
+    "turn": 482,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 10,
+    "before": 96,
+    "after": 86
+  },
+  {
+    "id": "38eb2cec-3a5f-4817-a645-a8f71ef22133",
+    "ts": 1779620560925,
+    "turn": 484,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 16,
+    "before": 160,
+    "after": 144
+  },
+  {
+    "id": "0276e369-9b2c-4e89-b2c9-4db60a2c5f55",
+    "ts": 1779620560958,
+    "turn": 486,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 4,
+    "before": 34,
+    "after": 30
+  },
+  {
+    "id": "bc2ca5e0-bb9b-472c-a2c1-52960eed4036",
+    "ts": 1779620560974,
+    "turn": 487,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 7,
+    "before": 113,
+    "after": 106
+  },
+  {
+    "id": "15f49413-74b3-4d40-8387-78580e231836",
+    "ts": 1779620561057,
+    "turn": 492,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 12,
+    "before": 104,
+    "after": 92
+  },
+  {
+    "id": "ef05ae73-a1e3-463a-8d6d-93f818f5580c",
+    "ts": 1779620561089,
+    "turn": 494,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 8,
+    "before": 117,
+    "after": 109
+  },
+  {
+    "id": "e8fde2a6-8ada-466a-b9b0-80a7748070fd",
+    "ts": 1779620561153,
+    "turn": 498,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 75,
+    "after": 71
+  },
+  {
+    "id": "1f149153-7ef2-449c-ab7a-b5a45c2a1c10",
+    "ts": 1779620561186,
+    "turn": 500,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 90,
+    "after": 85
+  },
+  {
+    "id": "df3c0a58-7303-40bf-8569-ae24cf25b0f1",
+    "ts": 1779620561235,
+    "turn": 503,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 16,
+    "before": 116,
+    "after": 100
+  },
+  {
+    "id": "4c291f28-94fc-41a6-a9f4-92edaf6c75b3",
+    "ts": 1779620561251,
+    "turn": 504,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 84,
+    "after": 80
+  },
+  {
+    "id": "9786fb30-acda-482c-bbee-b9927fc34599",
+    "ts": 1779620561268,
+    "turn": 505,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 3,
+    "before": 25,
+    "after": 22
+  },
+  {
+    "id": "25184413-6a35-45bc-8977-0d5d6a6e8e2e",
+    "ts": 1779620561353,
+    "turn": 510,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 17,
+    "before": 121,
+    "after": 104
+  },
+  {
+    "id": "80d124e2-3432-4c63-9c36-ecc5e57b8039",
+    "ts": 1779620561401,
+    "turn": 513,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 48,
+    "after": 46
+  },
+  {
+    "id": "e9ac2e10-db24-4bcf-8cb3-79e9183cf807",
+    "ts": 1779620561417,
+    "turn": 514,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 8,
+    "before": 91,
+    "after": 83
+  },
+  {
+    "id": "83da6d21-b3dd-4d51-8163-e58adb16c6f8",
+    "ts": 1779620561434,
+    "turn": 515,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 19,
+    "before": 127,
+    "after": 108
+  },
+  {
+    "id": "bb219b14-cd4c-4273-bd35-09a16bc3548f",
+    "ts": 1779620561467,
+    "turn": 517,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 110,
+    "after": 105
+  },
+  {
+    "id": "8166a4a7-0d75-4210-8038-8dbbd50cde88",
+    "ts": 1779620561502,
+    "turn": 519,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 18,
+    "before": 168,
+    "after": 150
+  },
+  {
+    "id": "379d7904-beff-4ad6-8bfb-e091790c2376",
+    "ts": 1779620561551,
+    "turn": 522,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 6,
+    "before": 46,
+    "after": 40
+  },
+  {
+    "id": "0f3bc2a7-2024-4b7f-8204-a85af5715445",
+    "ts": 1779620561604,
+    "turn": 525,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 8,
+    "before": 130,
+    "after": 122
+  },
+  {
+    "id": "9ee142a4-65fc-4a22-a1c4-eb260bcb4fea",
+    "ts": 1779620561619,
+    "turn": 526,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 14,
+    "before": 106,
+    "after": 92
+  },
+  {
+    "id": "1ac2e7ce-5d79-4cbc-8558-d445ce1d0c03",
+    "ts": 1779620561668,
+    "turn": 529,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 72,
+    "after": 68
+  },
+  {
+    "id": "0b11a9e2-b745-4112-bf3f-a512eb70dc08",
+    "ts": 1779620561737,
+    "turn": 533,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 15,
+    "before": 151,
+    "after": 136
+  },
+  {
+    "id": "5b4e43f2-cb4f-4afa-97ef-1a7b524b0468",
+    "ts": 1779620561752,
+    "turn": 534,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 7,
+    "before": 78,
+    "after": 71
+  },
+  {
+    "id": "8c353657-d237-4f21-af96-0fa9d7c572c9",
+    "ts": 1779620561834,
+    "turn": 539,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 20,
+    "before": 169,
+    "after": 149
+  },
+  {
+    "id": "cd42ace9-71fa-4150-a9fc-4bf3ad00626c",
+    "ts": 1779620561901,
+    "turn": 543,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 58,
+    "after": 53
+  },
+  {
+    "id": "09304977-eb9f-4a8b-b742-2ef847e048bc",
+    "ts": 1779620561934,
+    "turn": 545,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 76,
+    "after": 68
+  },
+  {
+    "id": "3bdb4cae-f629-4631-af1d-0d7382bc05da",
+    "ts": 1779620561950,
+    "turn": 546,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 6,
+    "before": 42,
+    "after": 36
+  },
+  {
+    "id": "839aa668-3f20-47ce-9c8f-d7330e06a867",
+    "ts": 1779620562017,
+    "turn": 550,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 11,
+    "before": 82,
+    "after": 71
+  },
+  {
+    "id": "4a41d5fa-70c9-4a4b-8d4c-c74dec9062d5",
+    "ts": 1779621575561,
+    "turn": 556,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 10,
+    "before": 131,
+    "after": 121
+  },
+  {
+    "id": "392dc781-fa90-4d32-8e56-9b9239e8e035",
+    "ts": 1779621578517,
+    "turn": 557,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 11,
+    "before": 102,
+    "after": 91
+  },
+  {
+    "id": "2db4f596-6744-4b46-be41-6f5d3c1a9576",
+    "ts": 1779621579743,
+    "turn": 558,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 63,
+    "after": 54
+  },
+  {
+    "id": "f2026589-d590-42ae-b739-7748eab32a5d",
+    "ts": 1779621580833,
+    "turn": 559,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 50,
+    "after": 44
+  },
+  {
+    "id": "cfbd9618-41e2-4f6f-8ce8-8c3ffa8adb6f",
+    "ts": 1779621581868,
+    "turn": 560,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 55,
+    "after": 50
+  },
+  {
+    "id": "f1c7a97d-10ef-4ae6-a67b-2a48dbfdf382",
+    "ts": 1779621958675,
+    "turn": 563,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 12,
+    "before": 106,
+    "after": 94
+  },
+  {
+    "id": "3a51908b-9893-4042-9e10-eea2b318bcd2",
+    "ts": 1779622544174,
+    "turn": 568,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 13,
+    "before": 92,
+    "after": 79
+  },
+  {
+    "id": "2d0fe066-655d-402c-b624-f471e36d499e",
+    "ts": 1779622773570,
+    "turn": 571,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 65,
+    "after": 61
+  },
+  {
+    "id": "a23c7bd0-3faa-45f9-a101-f118af2a2033",
+    "ts": 1779622775021,
+    "turn": 573,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 65,
+    "after": 62
+  },
+  {
+    "id": "19b70f81-74e4-4fba-9614-8eb918488585",
+    "ts": 1779622984229,
+    "turn": 576,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 9,
+    "before": 131,
+    "after": 122
+  },
+  {
+    "id": "dfabe71d-ac04-4bec-9b77-d32ba13e8e54",
+    "ts": 1779622985620,
+    "turn": 578,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 17,
+    "before": 129,
+    "after": 112
+  },
+  {
+    "id": "7c5f703e-928f-455f-94aa-e0245b8b6e8c",
+    "ts": 1779622987562,
+    "turn": 580,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 39,
+    "after": 35
+  },
+  {
+    "id": "54e4f6a5-1c88-408f-ad50-fd6efb4366c2",
+    "ts": 1779623306850,
+    "turn": 581,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 52,
+    "after": 49
+  },
+  {
+    "id": "adb87574-e80f-43c9-8488-f04ba9a4d889",
+    "ts": 1779623308369,
+    "turn": 583,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 44,
+    "after": 41
+  },
+  {
+    "id": "7ec8bc7d-dac6-4904-95e0-99ef737ac579",
+    "ts": 1779623309347,
+    "turn": 584,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 8,
+    "before": 53,
+    "after": 45
+  },
+  {
+    "id": "988950ce-77fe-4b72-a653-d133abf79121",
+    "ts": 1779623608625,
+    "turn": 587,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 9,
+    "before": 83,
+    "after": 74
+  },
+  {
+    "id": "9e821284-faf8-4424-b2c2-f5d56e56290d",
+    "ts": 1779623883346,
+    "turn": 592,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 4,
+    "before": 32,
+    "after": 28
+  },
+  {
+    "id": "b56e05f3-3a7e-4aa9-bfcd-705a6caf906b",
+    "ts": 1779623888436,
+    "turn": 593,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 53,
+    "after": 48
+  },
+  {
+    "id": "a0c2d3dc-6255-4c78-91e9-8f6b869ba9c0",
+    "ts": 1779624196915,
+    "turn": 598,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 52,
+    "after": 45
+  },
+  {
+    "id": "23190c87-b623-4f24-b2a8-f24fcdfd1893",
+    "ts": 1779624198395,
+    "turn": 600,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 56,
+    "after": 50
+  },
+  {
+    "id": "5b06a435-a242-4649-a643-556c8cc2f3c2",
+    "ts": 1779624588549,
+    "turn": 604,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 52,
+    "after": 49
+  },
+  {
+    "id": "d54d17b4-3df6-4ee1-83b2-82b6da192c7d",
+    "ts": 1779624590190,
+    "turn": 605,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 65,
+    "after": 62
+  },
+  {
+    "id": "d5cb3400-babd-4493-857a-0cbbe2e87b0a",
+    "ts": 1779625103728,
+    "turn": 607,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 5,
+    "before": 39,
+    "after": 34
+  },
+  {
+    "id": "e7abed4c-f776-4f2b-8c98-547b12b1c835",
+    "ts": 1779625105749,
+    "turn": 610,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 38,
+    "after": 36
+  },
+  {
+    "id": "c3be2e03-a299-41ae-a24c-5dccecc1c835",
+    "ts": 1779625462701,
+    "turn": 613,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 46,
+    "after": 41
+  },
+  {
+    "id": "e59bcdc8-3349-415a-ade7-6e62506177ea",
+    "ts": 1779625463780,
+    "turn": 614,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 72,
+    "after": 68
+  },
+  {
+    "id": "1325245c-0661-4d7c-85a7-4d0c8c1f2b23",
+    "ts": 1779625465401,
+    "turn": 616,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 80,
+    "after": 76
+  },
+  {
+    "id": "15612c96-e11b-4163-983b-8309ae542a3a",
+    "ts": 1779625852663,
+    "turn": 618,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 3,
+    "before": 39,
+    "after": 36
+  },
+  {
+    "id": "f3cf0334-56ae-40ff-a929-4c0d9eb8c821",
+    "ts": 1779625853615,
+    "turn": 619,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 16,
+    "before": 108,
+    "after": 92
+  },
+  {
+    "id": "4e48c0df-2489-41ec-bc22-227ecde3adc4",
+    "ts": 1779625854527,
+    "turn": 620,
+    "ticker": "YDEX",
+    "pct": 11,
+    "divAmount": 12,
+    "before": 108,
+    "after": 96
+  },
+  {
+    "id": "d5942cbf-012b-4cab-b7fe-4525f0e975cb",
+    "ts": 1779625855371,
+    "turn": 621,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 44,
+    "after": 40
+  },
+  {
+    "id": "6664cf99-6abd-4575-a911-e6c8914d0fdb",
+    "ts": 1779625856326,
+    "turn": 622,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 107,
+    "after": 100
+  },
+  {
+    "id": "c35137f9-3e1f-42e1-8b6d-2fde2d83672f",
+    "ts": 1779626034204,
+    "turn": 624,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 12,
+    "before": 79,
+    "after": 67
+  },
+  {
+    "id": "4c0624ae-53b4-4c07-9b4e-465a5d61f3e5",
+    "ts": 1779626035172,
+    "turn": 625,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 8,
+    "before": 67,
+    "after": 59
+  },
+  {
+    "id": "6d249dec-54fe-4216-a495-73a5b018e012",
+    "ts": 1779626036020,
+    "turn": 626,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 10,
+    "before": 91,
+    "after": 81
+  },
+  {
+    "id": "05e1be9e-905e-4d00-b180-cdbf8f941d12",
+    "ts": 1779626037256,
+    "turn": 627,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 48,
+    "after": 46
+  },
+  {
+    "id": "0eb83cf6-e709-4719-8514-b2ab7257a8d5",
+    "ts": 1779626198335,
+    "turn": 630,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 4,
+    "before": 30,
+    "after": 26
+  },
+  {
+    "id": "2bea8bd4-f20c-46f3-b569-1ae3340a0e36",
+    "ts": 1779626200331,
+    "turn": 631,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 63,
+    "after": 59
+  },
+  {
+    "id": "2b66eac0-6f40-404a-89e6-c8719099c880",
+    "ts": 1779626201532,
+    "turn": 632,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 5,
+    "before": 75,
+    "after": 70
+  },
+  {
+    "id": "6fe06555-14d0-465c-95e7-2e68d195918d",
+    "ts": 1779626497786,
+    "turn": 634,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 11,
+    "before": 176,
+    "after": 165
+  },
+  {
+    "id": "c465457d-6e61-458a-83ef-0a43c8233240",
+    "ts": 1779626778269,
+    "turn": 638,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 7,
+    "before": 65,
+    "after": 59
+  },
+  {
+    "id": "9f43c02a-4e2c-4fa3-a0b7-66bb5814d2ab",
+    "ts": 1779626779357,
+    "turn": 639,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 16,
+    "before": 111,
+    "after": 95
+  },
+  {
+    "id": "e583ebe5-3b62-4eea-ad9e-ce77ece1ab95",
+    "ts": 1779626780908,
+    "turn": 641,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 4,
+    "before": 34,
+    "after": 30
+  },
+  {
+    "id": "a86e5191-e1ce-4ff0-8e22-c66cc9f5d387",
+    "ts": 1779627245394,
+    "turn": 643,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 4,
+    "before": 34,
+    "after": 30
+  },
+  {
+    "id": "2de60313-1491-44c9-a211-8e2e5c94dab1",
+    "ts": 1779627246368,
+    "turn": 644,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 8,
+    "before": 128,
+    "after": 120
+  },
+  {
+    "id": "51d6414b-a693-4167-bb9d-e08eb37c4886",
+    "ts": 1779627610117,
+    "turn": 648,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 14,
+    "before": 111,
+    "after": 97
+  },
+  {
+    "id": "b27e3436-2f30-4a64-abab-8445df7e404a",
+    "ts": 1779627611329,
+    "turn": 650,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 3,
+    "before": 29,
+    "after": 26
+  },
+  {
+    "id": "895e4cb0-5d6a-49b3-8d8b-66b13ad5bc9d",
+    "ts": 1779628064439,
+    "turn": 657,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 102,
+    "after": 97
+  },
+  {
+    "id": "0f70e425-c1e2-4c02-987b-a1bcd9502ade",
+    "ts": 1779628316937,
+    "turn": 660,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 11,
+    "before": 100,
+    "after": 89
+  },
+  {
+    "id": "e7ce2215-3294-499e-983f-62ab2855935d",
+    "ts": 1779628774913,
+    "turn": 668,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 11,
+    "before": 117,
+    "after": 106
+  },
+  {
+    "id": "ac7421b0-627d-4390-8a7e-c8bbb1ac9602",
+    "ts": 1779628777456,
+    "turn": 671,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 54,
+    "after": 51
+  },
+  {
+    "id": "a30eaa30-e2e5-4973-bac9-598d9debb634",
+    "ts": 1779628990363,
+    "turn": 672,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 60,
+    "after": 57
+  },
+  {
+    "id": "bb62f317-14d4-411f-93ab-f5c853d43ac8",
+    "ts": 1779628991763,
+    "turn": 674,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 48,
+    "after": 42
+  },
+  {
+    "id": "fb7d8351-55d6-4757-829d-2c97d8a04246",
+    "ts": 1779628995797,
+    "turn": 676,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 2,
+    "before": 20,
+    "after": 18
+  },
+  {
+    "id": "9ff97f03-00c1-4feb-9f81-80ad551fa840",
+    "ts": 1779629352247,
+    "turn": 678,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 8,
+    "before": 101,
+    "after": 93
+  },
+  {
+    "id": "75472e89-b898-4da1-8279-75451bbdbe83",
+    "ts": 1779629354157,
+    "turn": 680,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 72,
+    "after": 66
+  },
+  {
+    "id": "11de794e-9f28-4c98-8a3b-581233d898ce",
+    "ts": 1779629355389,
+    "turn": 681,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 18,
+    "before": 142,
+    "after": 124
+  },
+  {
+    "id": "c9846147-e43e-492d-a4f3-29ae11c61991",
+    "ts": 1779629519927,
+    "turn": 682,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 15,
+    "before": 137,
+    "after": 122
+  },
+  {
+    "id": "55edbfe6-1b05-4cd6-b74b-652358918ddd",
+    "ts": 1779629520717,
+    "turn": 683,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 9,
+    "before": 129,
+    "after": 120
+  },
+  {
+    "id": "a6391578-092f-4980-9aa1-330b8b218a4e",
+    "ts": 1779629521986,
+    "turn": 685,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 10,
+    "before": 127,
+    "after": 117
+  },
+  {
+    "id": "22c4b8bc-6839-4ac2-8006-d9f2119248de",
+    "ts": 1779629684650,
+    "turn": 689,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 9,
+    "before": 105,
+    "after": 96
+  },
+  {
+    "id": "bde8e570-23e7-479d-9bb7-0d2d58cd4aa6",
+    "ts": 1779630010113,
+    "turn": 693,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 116,
+    "after": 110
+  },
+  {
+    "id": "8bd3a6ce-1b83-4776-8725-fbf1ae2b1169",
+    "ts": 1779630011004,
+    "turn": 694,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 115,
+    "after": 109
+  },
+  {
+    "id": "4c3f966d-5e30-4c36-aaf9-22509633bc84",
+    "ts": 1779630109534,
+    "turn": 699,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 11,
+    "before": 87,
+    "after": 76
+  },
+  {
+    "id": "5439e9cf-dc0f-41af-885c-3d3206622243",
+    "ts": 1779630111276,
+    "turn": 702,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 16,
+    "before": 197,
+    "after": 181
+  },
+  {
+    "id": "7c57a310-f56b-44d0-81fe-7af48bc737c1",
+    "ts": 1779630295956,
+    "turn": 703,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 24,
+    "before": 197,
+    "after": 173
+  },
+  {
+    "id": "7505770a-1a66-4315-a12a-e8900308584f",
+    "ts": 1779630297274,
+    "turn": 705,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 21,
+    "before": 164,
+    "after": 143
+  },
+  {
+    "id": "5fc58e53-2e58-4349-8073-f67e611c1cfb",
+    "ts": 1779630298269,
+    "turn": 706,
+    "ticker": "YDEX",
+    "pct": 9,
+    "divAmount": 10,
+    "before": 108,
+    "after": 98
+  },
+  {
+    "id": "b6587946-961d-440c-94e1-f167e73fc1b8",
+    "ts": 1779630468539,
+    "turn": 710,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 16,
+    "before": 161,
+    "after": 145
+  },
+  {
+    "id": "6c785a7a-7cd0-4e3f-acd1-7ce9347add88",
+    "ts": 1779630469334,
+    "turn": 711,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 12,
+    "before": 94,
+    "after": 82
+  },
+  {
+    "id": "6a414bcb-cc0d-4d6d-9f98-54455cb6d6cd",
+    "ts": 1779630470030,
+    "turn": 712,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 96,
+    "after": 91
+  },
+  {
+    "id": "f0e1266d-b330-48c0-ba5d-445cce43ec80",
+    "ts": 1779630577638,
+    "turn": 713,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 22,
+    "before": 171,
+    "after": 149
+  },
+  {
+    "id": "ff2da432-48f8-4b90-88b3-f5957d7028e1",
+    "ts": 1779630578260,
+    "turn": 714,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 3,
+    "before": 38,
+    "after": 35
+  },
+  {
+    "id": "265e7705-9e67-4bcc-a52b-76a2f830e646",
+    "ts": 1779630717828,
+    "turn": 719,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 5,
+    "before": 35,
+    "after": 30
+  },
+  {
+    "id": "b0e3e564-ee46-4c79-8410-ec6a9f5f031c",
+    "ts": 1779630719985,
+    "turn": 723,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 44,
+    "after": 40
+  },
+  {
+    "id": "54573c9a-9c50-4f0c-ab3c-e88deb49b6cc",
+    "ts": 1779630801342,
+    "turn": 724,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 85,
+    "after": 75
+  },
+  {
+    "id": "401f65dd-84cf-4634-b45a-59aeeeb9269c",
+    "ts": 1779630802004,
+    "turn": 725,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 9,
+    "before": 149,
+    "after": 140
+  },
+  {
+    "id": "b3f36732-61e6-4e53-82cc-acc87e18887e",
+    "ts": 1779630803266,
+    "turn": 728,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 12,
+    "before": 78,
+    "after": 66
+  },
+  {
+    "id": "e19ebebf-b9f4-4761-8196-75d96a7a2be7",
+    "ts": 1779630936953,
+    "turn": 729,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 52,
+    "after": 48
+  },
+  {
+    "id": "99503231-9555-4797-b659-fa577b29c719",
+    "ts": 1779630937656,
+    "turn": 730,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 81,
+    "after": 73
+  },
+  {
+    "id": "e27b63b1-bfc9-4c79-848d-9618c9931500",
+    "ts": 1779630938359,
+    "turn": 731,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 17,
+    "before": 145,
+    "after": 128
+  },
+  {
+    "id": "6bc2a52e-ee74-4cd8-b702-e247b96c7b72",
+    "ts": 1779631025095,
+    "turn": 736,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 81,
+    "after": 77
+  },
+  {
+    "id": "6333a434-ea5e-477b-8f21-43f51fbbe25d",
+    "ts": 1779631026065,
+    "turn": 737,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 9,
+    "before": 78,
+    "after": 69
+  },
+  {
+    "id": "caf26d16-31e9-4dc8-b700-f35a7e8a7cad",
+    "ts": 1779631026994,
+    "turn": 738,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 8,
+    "before": 76,
+    "after": 68
+  },
+  {
+    "id": "54254ba8-6746-453c-a774-bfbb4cb40830",
+    "ts": 1779631079195,
+    "turn": 740,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 12,
+    "before": 90,
+    "after": 78
+  },
+  {
+    "id": "194f954e-a0be-4f3f-bb8e-4c7b79067908",
+    "ts": 1779631084019,
+    "turn": 744,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 79,
+    "after": 71
+  },
+  {
+    "id": "675487bc-71f4-44be-8065-a005c99c7f7e",
+    "ts": 1779618920969,
+    "turn": 440,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 7,
+    "before": 61,
+    "after": 54
+  },
+  {
+    "id": "0d509bcf-c392-4434-895b-ddf63f7f890e",
+    "ts": 1779618921068,
+    "turn": 445,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 71,
+    "after": 65
+  },
+  {
+    "id": "10b643a0-ee3e-4713-ae1c-996ba9d6484a",
+    "ts": 1779620560464,
+    "turn": 456,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 86,
+    "after": 80
+  },
+  {
+    "id": "9982ef06-fbe8-4b61-9e7e-8e131942dfde",
+    "ts": 1779620560519,
+    "turn": 459,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 42,
+    "after": 39
+  },
+  {
+    "id": "863c2b73-2650-46ab-b803-42e98ade601e",
+    "ts": 1779620560613,
+    "turn": 465,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 11,
+    "before": 140,
+    "after": 129
+  },
+  {
+    "id": "717f4c52-0bd9-4f25-a7e0-3bd3376467fe",
+    "ts": 1779620560911,
+    "turn": 483,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 15,
+    "before": 114,
+    "after": 99
+  },
+  {
+    "id": "9f9e31a3-c35a-4377-9a9f-5fa50751e61e",
+    "ts": 1779620561009,
+    "turn": 489,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 104,
+    "after": 97
+  },
+  {
+    "id": "522f4ab1-70c5-4c63-b594-e20831fcb2b1",
+    "ts": 1779620561073,
+    "turn": 493,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 15,
+    "before": 100,
+    "after": 85
+  },
+  {
+    "id": "6823fb9e-19f5-4e97-bff2-54a1ee0a970c",
+    "ts": 1779620561219,
+    "turn": 502,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 35,
+    "after": 32
+  },
+  {
+    "id": "abb0e456-d69d-4ca1-9b39-b6cb0c2324d6",
+    "ts": 1779620561301,
+    "turn": 507,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 11,
+    "before": 96,
+    "after": 85
+  },
+  {
+    "id": "c58b4305-aec7-444b-b94f-6870c06ff062",
+    "ts": 1779620561450,
+    "turn": 516,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 18,
+    "before": 141,
+    "after": 123
+  },
+  {
+    "id": "bba6c1b2-8a60-4763-807e-e9dc1850fe78",
+    "ts": 1779620561483,
+    "turn": 518,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 9,
+    "before": 153,
+    "after": 144
+  },
+  {
+    "id": "337c8bd1-fdcc-4204-9846-e33bacb24446",
+    "ts": 1779620561701,
+    "turn": 531,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 13,
+    "before": 143,
+    "after": 130
+  },
+  {
+    "id": "ddb0466e-da27-4b72-b760-d5a9af924c6c",
+    "ts": 1779620561916,
+    "turn": 544,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 81,
+    "after": 77
+  },
+  {
+    "id": "0f4d4be0-7f60-468b-be9e-9b2687af14c3",
+    "ts": 1780224884885,
+    "turn": 4,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 14,
+    "before": 161,
+    "after": 147
+  },
+  {
+    "id": "6c901665-04ed-4f3d-aca4-c8f23f7a3341",
+    "ts": 1780224884905,
+    "turn": 5,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 66,
+    "after": 60
+  },
+  {
+    "id": "447c97c4-a318-4643-8973-8972dc7d8280",
+    "ts": 1780224884932,
+    "turn": 7,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 13,
+    "before": 117,
+    "after": 104
+  },
+  {
+    "id": "106453b4-daec-4fd9-92df-ff577262aedf",
+    "ts": 1780224884955,
+    "turn": 8,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 8,
+    "before": 63,
+    "after": 55
+  },
+  {
+    "id": "f0f78d62-0eac-4f26-adec-533d340a5a6b",
+    "ts": 1780224884989,
+    "turn": 10,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 75,
+    "after": 69
+  },
+  {
+    "id": "66e6b6fb-44e7-4a37-b9a8-d5d7e10e970e",
+    "ts": 1780224885022,
+    "turn": 12,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 119,
+    "after": 113
+  },
+  {
+    "id": "ebb1b9cc-e6db-406e-b8c1-3d03c21adfd3",
+    "ts": 1780226732559,
+    "turn": 17,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 12,
+    "before": 148,
+    "after": 136
+  },
+  {
+    "id": "d95ebf1d-c928-4f6d-b09f-0649dd8566f7",
+    "ts": 1780226732592,
+    "turn": 19,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 7,
+    "before": 148,
+    "after": 141
+  },
+  {
+    "id": "d8c96d79-2ca0-495b-b018-02d47281e8c7",
+    "ts": 1780226732610,
+    "turn": 20,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 13,
+    "before": 130,
+    "after": 117
+  },
+  {
+    "id": "5da75ac5-34c6-4da9-b208-e71c0b632503",
+    "ts": 1780226732628,
+    "turn": 21,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 59,
+    "after": 56
+  },
+  {
+    "id": "b2caf871-4fdb-43d4-bd90-28e298100850",
+    "ts": 1780226732672,
+    "turn": 22,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 76,
+    "after": 70
+  },
+  {
+    "id": "4e427a30-7254-4c4b-b635-ef4d551462fb",
+    "ts": 1780226732765,
+    "turn": 23,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 7,
+    "before": 110,
+    "after": 103
+  },
+  {
+    "id": "dee59db9-ce41-4c8b-a522-0ef83d8a5009",
+    "ts": 1780226732783,
+    "turn": 24,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 61,
+    "after": 52
+  },
+  {
+    "id": "4f587077-dde3-48f6-b648-cba7d412dd4e",
+    "ts": 1780226732812,
+    "turn": 25,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 89,
+    "after": 85
+  },
+  {
+    "id": "d86f6008-a922-4c5c-b4b5-cfcf877c5af7",
+    "ts": 1780226732833,
+    "turn": 27,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 74,
+    "after": 70
+  },
+  {
+    "id": "86d7a4bd-06e7-497f-86b1-6ef7b03fc7ca",
+    "ts": 1780226732848,
+    "turn": 28,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 14,
+    "before": 129,
+    "after": 115
+  },
+  {
+    "id": "13586cf2-19c0-4deb-8b62-6e9be5d9457e",
+    "ts": 1780226732865,
+    "turn": 29,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 18,
+    "before": 132,
+    "after": 114
+  },
+  {
+    "id": "77061888-2cc8-41ad-9f4a-8b8f00152088",
+    "ts": 1780226732882,
+    "turn": 30,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 15,
+    "before": 150,
+    "after": 135
+  },
+  {
+    "id": "61aa99ee-b5b9-4c7d-95e7-13ee41fc7ded",
+    "ts": 1780226732896,
+    "turn": 31,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 23,
+    "before": 150,
+    "after": 128
+  },
+  {
+    "id": "62b2852b-f442-4397-a69b-7ed0bc650fe3",
+    "ts": 1780226733041,
+    "turn": 40,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 11,
+    "before": 154,
+    "after": 143
+  },
+  {
+    "id": "45fbfde7-6cf5-419d-afcb-8113d5a5c1da",
+    "ts": 1780226733096,
+    "turn": 43,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 80,
+    "after": 74
+  },
+  {
+    "id": "bca571af-edd0-45b5-9e8b-17d084ee047c",
+    "ts": 1780226733120,
+    "turn": 45,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 6,
+    "before": 40,
+    "after": 34
+  },
+  {
+    "id": "e292b3a8-b171-46ea-a540-346eb4362382",
+    "ts": 1780226733136,
+    "turn": 46,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 20,
+    "before": 163,
+    "after": 143
+  },
+  {
+    "id": "c9b60076-3a4f-4408-a8a6-100ee1a8eabd",
+    "ts": 1780226733151,
+    "turn": 47,
+    "ticker": "SBER",
+    "pct": 11,
+    "divAmount": 19,
+    "before": 169,
+    "after": 150
+  },
+  {
+    "id": "a947385e-0f58-4e8c-b1ae-5a842f7a5f85",
+    "ts": 1780226733168,
+    "turn": 48,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 9,
+    "before": 74,
+    "after": 65
+  },
+  {
+    "id": "ae985e61-78a6-485a-8380-212aa33aaea7",
+    "ts": 1780226733200,
+    "turn": 50,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 87,
+    "after": 81
+  },
+  {
+    "id": "71ba6112-d240-4919-ab9d-8b1ef081d20c",
+    "ts": 1780226733263,
+    "turn": 54,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 49,
+    "after": 46
+  },
+  {
+    "id": "d6030ddf-e0a2-41d9-8632-103db27e4d5b",
+    "ts": 1780226733279,
+    "turn": 55,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 81,
+    "after": 76
+  },
+  {
+    "id": "30a4eb8a-8a7f-44c9-a419-92694ab36102",
+    "ts": 1780226733312,
+    "turn": 57,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 5,
+    "before": 39,
+    "after": 34
+  },
+  {
+    "id": "4497d3eb-006e-463f-86fc-460c7c08b9c9",
+    "ts": 1780226733328,
+    "turn": 58,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 20,
+    "before": 143,
+    "after": 123
+  },
+  {
+    "id": "a8334fe6-d97f-4e83-936f-ba6292848d57",
+    "ts": 1780226733360,
+    "turn": 60,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 86,
+    "after": 80
+  },
+  {
+    "id": "557797c2-40f8-4402-9dbc-3451cd73ff63",
+    "ts": 1780227141261,
+    "turn": 64,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 22,
+    "before": 158,
+    "after": 136
+  },
+  {
+    "id": "deb2d1fe-e0a2-45bc-9fb7-87672d00e5dd",
+    "ts": 1780227142188,
+    "turn": 65,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 67,
+    "after": 62
+  },
+  {
+    "id": "3d577074-abdb-46f0-be90-b04b5c324579",
+    "ts": 1780227144031,
+    "turn": 68,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 5,
+    "before": 39,
+    "after": 34
+  },
+  {
+    "id": "8f074d52-9a3b-4e9b-9430-a3f61c45391c",
+    "ts": 1780227363667,
+    "turn": 70,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 73,
+    "after": 69
+  },
+  {
+    "id": "f18278ff-edd0-4a27-9c09-2fb53835b6de",
+    "ts": 1780227365362,
+    "turn": 73,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 71,
+    "after": 65
+  },
+  {
+    "id": "3729933a-446d-4522-ab14-b68ea2019d0d",
+    "ts": 1780227366505,
+    "turn": 74,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 8,
+    "before": 56,
+    "after": 48
+  },
+  {
+    "id": "d6b59758-039b-4ccf-a3b2-a68d8ec683ad",
+    "ts": 1780227367905,
+    "turn": 75,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 6,
+    "before": 54,
+    "after": 48
+  },
+  {
+    "id": "86eaed28-e55c-4a6e-a03e-3048a29ad94a",
+    "ts": 1780227632204,
+    "turn": 76,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 61,
+    "after": 56
+  },
+  {
+    "id": "b0543178-e100-406f-b158-66d9da026880",
+    "ts": 1780227633105,
+    "turn": 77,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 16,
+    "before": 115,
+    "after": 99
+  },
+  {
+    "id": "f4925aea-eb0f-4c39-b5ff-8509be8c2c90",
+    "ts": 1780227635090,
+    "turn": 80,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 9,
+    "before": 149,
+    "after": 140
+  },
+  {
+    "id": "e789d048-750e-402a-9cc9-17cfb7659e56",
+    "ts": 1780227931949,
+    "turn": 82,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 36,
+    "after": 32
+  },
+  {
+    "id": "c228dd95-e220-4e20-8c2e-3c3899ce9361",
+    "ts": 1780227932659,
+    "turn": 83,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 58,
+    "after": 54
+  },
+  {
+    "id": "20002528-ef5f-4ea0-8d7d-dc1410d98a71",
+    "ts": 1780227939002,
+    "turn": 87,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 10,
+    "before": 142,
+    "after": 132
+  },
+  {
+    "id": "b5393795-3019-4a56-aded-135442e6c271",
+    "ts": 1780228429073,
+    "turn": 88,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 6,
+    "before": 57,
+    "after": 51
+  },
+  {
+    "id": "1a449d27-9446-43cf-9de6-2986e359d9a1",
+    "ts": 1780228430319,
+    "turn": 90,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 64,
+    "after": 61
+  },
+  {
+    "id": "c4d2f437-21b7-4824-bce6-af57ef451a98",
+    "ts": 1780228431293,
+    "turn": 91,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 8,
+    "before": 69,
+    "after": 61
+  },
+  {
+    "id": "c3b939eb-12fd-4ba8-bc99-dfab6cb62795",
+    "ts": 1780228633601,
+    "turn": 97,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 51,
+    "after": 44
+  },
+  {
+    "id": "7f053eef-2c61-4523-a50b-5fcdaed66004",
+    "ts": 1780228635555,
+    "turn": 99,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 62,
+    "after": 59
+  },
+  {
+    "id": "1be769a8-b6f0-4bd9-9693-562876ccc238",
+    "ts": 1780228838142,
+    "turn": 100,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 12,
+    "before": 134,
+    "after": 122
+  },
+  {
+    "id": "fe3df40e-b2c6-4ba0-a081-74a4b90852fc",
+    "ts": 1780228839002,
+    "turn": 101,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 11,
+    "before": 77,
+    "after": 66
+  },
+  {
+    "id": "22563f4e-58e7-4371-b6a5-a3bb812b2239",
+    "ts": 1780228840300,
+    "turn": 103,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 34,
+    "after": 32
+  },
+  {
+    "id": "3ce71615-ba48-4415-9ad0-aee97afc9e9a",
+    "ts": 1780228841266,
+    "turn": 104,
+    "ticker": "MTSS",
+    "pct": 11,
+    "divAmount": 7,
+    "before": 65,
+    "after": 58
+  },
+  {
+    "id": "0418e375-bec5-4a22-a059-ed518ec199fa",
+    "ts": 1780228842125,
+    "turn": 105,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 12,
+    "before": 124,
+    "after": 112
+  },
+  {
+    "id": "35667527-2618-4dd6-abd1-9361c18f83cc",
+    "ts": 1780229071490,
+    "turn": 108,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 59,
+    "after": 56
+  },
+  {
+    "id": "46a5dcfe-3474-4afd-b9b5-53a3e6e7ddb2",
+    "ts": 1780229073023,
+    "turn": 109,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 50,
+    "after": 44
+  },
+  {
+    "id": "fc5e0bc7-4edd-4692-a279-287fd8f9bc90",
+    "ts": 1780229074134,
+    "turn": 110,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 32,
+    "after": 30
+  },
+  {
+    "id": "1d9461d9-e8bd-4995-b31f-d4540d8bec9e",
+    "ts": 1780229075135,
+    "turn": 111,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 18,
+    "before": 138,
+    "after": 120
+  },
+  {
+    "id": "d7bf4cfb-63c9-4939-bfc7-f06b2e7199d4",
+    "ts": 1780229227059,
+    "turn": 114,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 9,
+    "before": 57,
+    "after": 48
+  },
+  {
+    "id": "0dee16b2-18c1-44de-b281-d0d3cb81a28e",
+    "ts": 1780229229532,
+    "turn": 116,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 12,
+    "before": 96,
+    "after": 84
+  },
+  {
+    "id": "1a9dcbdb-72d3-443e-b9f4-89b94232e586",
+    "ts": 1780229425221,
+    "turn": 122,
+    "ticker": "MGNT",
+    "pct": 10,
+    "divAmount": 4,
+    "before": 43,
+    "after": 39
+  },
+  {
+    "id": "20310335-da80-4f9f-a13a-bd6a00885978",
+    "ts": 1780229708789,
+    "turn": 125,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 56,
+    "after": 51
+  },
+  {
+    "id": "2d1c6ea8-5147-4ed0-85ac-f960c736d4df",
+    "ts": 1780229711264,
+    "turn": 128,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 4,
+    "before": 31,
+    "after": 27
+  },
+  {
+    "id": "6ec1d5a0-9a22-4f75-8355-b9ad018a98ac",
+    "ts": 1780230165280,
+    "turn": 130,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 64,
+    "after": 55
+  },
+  {
+    "id": "dd3c6709-b908-4b7c-92c8-dd8420b28769",
+    "ts": 1780230166284,
+    "turn": 131,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 5,
+    "before": 39,
+    "after": 34
+  },
+  {
+    "id": "43417883-5fbf-4d88-bf8f-d65b8bb9fa68",
+    "ts": 1780230168755,
+    "turn": 134,
+    "ticker": "MTSS",
+    "pct": 11,
+    "divAmount": 7,
+    "before": 64,
+    "after": 57
+  },
+  {
+    "id": "25300c92-fcdd-401c-8de4-641face767de",
+    "ts": 1780230169701,
+    "turn": 135,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 4,
+    "before": 32,
+    "after": 28
+  },
+  {
+    "id": "a40a3f9b-0be9-48a2-83e5-384a814cf266",
+    "ts": 1780230170615,
+    "turn": 136,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 5,
+    "before": 52,
+    "after": 47
+  },
+  {
+    "id": "0ba2aae2-aa59-4e70-a66b-b7037d791513",
+    "ts": 1780230537824,
+    "turn": 137,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 13,
+    "before": 99,
+    "after": 86
+  },
+  {
+    "id": "03b6ae03-1d13-4fae-af35-53d4c619e732",
+    "ts": 1780230540594,
+    "turn": 140,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 6,
+    "before": 49,
+    "after": 43
+  },
+  {
+    "id": "542d0397-b581-4a2a-90b8-27bbd03adb7d",
+    "ts": 1780230824335,
+    "turn": 143,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 8,
+    "before": 53,
+    "after": 45
+  },
+  {
+    "id": "b98bae21-b10d-480a-8d3f-5576699c3eba",
+    "ts": 1780230826149,
+    "turn": 144,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 9,
+    "before": 104,
+    "after": 95
+  },
+  {
+    "id": "33ca38fe-147f-46c3-a781-481e2c75bf5f",
+    "ts": 1780230827155,
+    "turn": 145,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 63,
+    "after": 59
+  },
+  {
+    "id": "729e7485-c72a-4cad-918f-f7788556f6d0",
+    "ts": 1780230828195,
+    "turn": 146,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 49,
+    "after": 46
+  },
+  {
+    "id": "f4fa35e1-4ede-468d-af58-3c0012480f54",
+    "ts": 1780230829263,
+    "turn": 147,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 4,
+    "before": 38,
+    "after": 34
+  },
+  {
+    "id": "03d83c3b-bb53-4af6-a5fe-5bff3b490f93",
+    "ts": 1780231036332,
+    "turn": 150,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 52,
+    "after": 48
+  },
+  {
+    "id": "678af476-fa1e-405f-8620-0f71439b2f70",
+    "ts": 1780231037247,
+    "turn": 151,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 50,
+    "after": 47
+  },
+  {
+    "id": "c4475195-de74-456f-b6f1-ab36db1c67d8",
+    "ts": 1780231039759,
+    "turn": 154,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 35,
+    "after": 33
+  },
+  {
+    "id": "bc122bca-6260-4ff8-98bb-a065e4075695",
+    "ts": 1780231346699,
+    "turn": 155,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 3,
+    "before": 43,
+    "after": 40
+  },
+  {
+    "id": "c4adc9fa-b116-40dc-8221-5ee3052d9832",
+    "ts": 1780231347965,
+    "turn": 156,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 11,
+    "before": 78,
+    "after": 67
+  },
+  {
+    "id": "90f3b418-e96c-4606-a2ff-425f5f947733",
+    "ts": 1780231348884,
+    "turn": 157,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 8,
+    "before": 152,
+    "after": 144
+  },
+  {
+    "id": "557cfb7a-a0fd-4c93-bff6-9f90e2dc99a8",
+    "ts": 1780231349828,
+    "turn": 158,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 68,
+    "after": 63
+  },
+  {
+    "id": "3e19d12f-8496-46e3-b414-00db067c2934",
+    "ts": 1780231350750,
+    "turn": 159,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 8,
+    "before": 56,
+    "after": 48
+  },
+  {
+    "id": "53b3cd5a-394f-4226-bb05-0c6c7510549e",
+    "ts": 1780231654521,
+    "turn": 161,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 63,
+    "after": 55
+  },
+  {
+    "id": "070a62c2-8478-4019-a2ff-ee1c08877b36",
+    "ts": 1780231655393,
+    "turn": 162,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 80,
+    "after": 76
+  },
+  {
+    "id": "56272547-ab55-49d0-9a59-3618ea77ff1a",
+    "ts": 1780231656182,
+    "turn": 163,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 44,
+    "after": 42
+  },
+  {
+    "id": "52a0d99e-a768-482f-b17f-babd1c13304c",
+    "ts": 1780231656959,
+    "turn": 164,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 10,
+    "before": 65,
+    "after": 55
+  },
+  {
+    "id": "c67898d9-11b7-4372-a440-b40004524259",
+    "ts": 1780231657747,
+    "turn": 165,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 7,
+    "before": 81,
+    "after": 74
+  },
+  {
+    "id": "7208879f-b1e5-461f-adf7-e1921c87c0d6",
+    "ts": 1780231658559,
+    "turn": 166,
+    "ticker": "YDEX",
+    "pct": 8,
+    "divAmount": 4,
+    "before": 50,
+    "after": 46
+  },
+  {
+    "id": "ea326d4d-0d47-4666-859f-941b2954e335",
+    "ts": 1780231993159,
+    "turn": 167,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 6,
+    "before": 51,
+    "after": 45
+  },
+  {
+    "id": "93c6088c-a7ef-4af7-bd81-d22c072201d8",
+    "ts": 1780231994051,
+    "turn": 168,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 13,
+    "before": 99,
+    "after": 86
+  },
+  {
+    "id": "f0b16307-de70-4047-b73b-a33e1d13f2e1",
+    "ts": 1780231994894,
+    "turn": 169,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 45,
+    "after": 41
+  },
+  {
+    "id": "833e4f5d-f8ca-4f1c-aab2-921130b1ae4d",
+    "ts": 1780231995691,
+    "turn": 170,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 15,
+    "before": 99,
+    "after": 84
+  },
+  {
+    "id": "1205cdda-940c-49b5-bbac-772a217c57db",
+    "ts": 1780231996482,
+    "turn": 171,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 81,
+    "after": 76
+  },
+  {
+    "id": "a5ac62ed-c2c4-428f-b800-e6125a8488b7",
+    "ts": 1780231997358,
+    "turn": 172,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 57,
+    "after": 50
+  },
+  {
+    "id": "38cfa213-a7b4-43bb-b4f2-b011f7ccc020",
+    "ts": 1780232380948,
+    "turn": 174,
+    "ticker": "MTSS",
+    "pct": 11,
+    "divAmount": 5,
+    "before": 45,
+    "after": 40
+  },
+  {
+    "id": "f361fcbf-0308-48eb-a2e5-c51467e50bea",
+    "ts": 1780232381859,
+    "turn": 175,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 40,
+    "after": 36
+  },
+  {
+    "id": "37414b1c-5c89-4d51-b564-8de184b8cbf3",
+    "ts": 1780232382682,
+    "turn": 176,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 107,
+    "after": 100
+  },
+  {
+    "id": "1a63f50a-f35f-4ab0-b1b4-6bb8081cc018",
+    "ts": 1780232384176,
+    "turn": 178,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 6,
+    "before": 52,
+    "after": 46
+  },
+  {
+    "id": "025b405c-c6af-4627-ba5b-3f863c18ace1",
+    "ts": 1780232666149,
+    "turn": 179,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 54,
+    "after": 47
+  },
+  {
+    "id": "2736ac8b-2aa0-477c-824b-2f18d629ff67",
+    "ts": 1780232668513,
+    "turn": 183,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 7,
+    "before": 47,
+    "after": 40
+  },
+  {
+    "id": "5c3fdc34-810b-4b9b-98ea-0a5b808918b3",
+    "ts": 1780232669591,
+    "turn": 184,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 3,
+    "before": 35,
+    "after": 32
+  },
+  {
+    "id": "076d355d-a76e-40c8-8e09-5f832c3b9cc3",
+    "ts": 1780232830770,
+    "turn": 185,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 65,
+    "after": 56
+  },
+  {
+    "id": "9ad3b359-1d9d-41e4-85f4-286f72ad56f9",
+    "ts": 1780232831654,
+    "turn": 186,
+    "ticker": "PLZL",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 84,
+    "after": 77
+  },
+  {
+    "id": "c5bdb980-2aeb-4d05-964c-2b71cb921cd1",
+    "ts": 1780232832455,
+    "turn": 187,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 13,
+    "before": 84,
+    "after": 71
+  },
+  {
+    "id": "ec11dda3-5aa8-41d2-9609-ed8f11fe6e95",
+    "ts": 1780233254647,
+    "turn": 198,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 2,
+    "before": 31,
+    "after": 29
+  },
+  {
+    "id": "f5b2757f-f2cb-4075-8c60-719f98bd06a3",
+    "ts": 1780233407416,
+    "turn": 204,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 45,
+    "after": 43
+  },
+  {
+    "id": "5125b1bb-5e75-47cb-b88b-bd11ab73c654",
+    "ts": 1780233408973,
+    "turn": 206,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 81,
+    "after": 71
+  },
+  {
+    "id": "19fdad8c-d2a2-4f53-b123-1fbc16a68cb6",
+    "ts": 1780233409852,
+    "turn": 207,
+    "ticker": "MTSS",
+    "pct": 14,
+    "divAmount": 5,
+    "before": 33,
+    "after": 28
+  },
+  {
+    "id": "b0bfbce1-d668-4287-a404-3d6dc8007c8e",
+    "ts": 1780233410639,
+    "turn": 208,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 9,
+    "before": 65,
+    "after": 56
+  },
+  {
+    "id": "eaeaa702-0e83-4ec8-bfac-dae0a0599ac8",
+    "ts": 1780233563265,
+    "turn": 210,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 3,
+    "before": 33,
+    "after": 30
+  },
+  {
+    "id": "74b87a6a-4bfe-43f0-ac62-487190f8fa91",
+    "ts": 1780233564150,
+    "turn": 211,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 5,
+    "before": 36,
+    "after": 31
+  },
+  {
+    "id": "87f2dea4-e46d-417e-8643-cd352aadc703",
+    "ts": 1780233564946,
+    "turn": 212,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 3,
+    "before": 31,
+    "after": 28
+  },
+  {
+    "id": "37b5115d-b5ad-4901-8d7c-69c5bf4fc54e",
+    "ts": 1780233565840,
+    "turn": 213,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 69,
+    "after": 66
+  },
+  {
+    "id": "0b08bfaa-5a9e-4991-acc7-7dd31344c14c",
+    "ts": 1780233566711,
+    "turn": 214,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 4,
+    "before": 31,
+    "after": 27
+  },
+  {
+    "id": "83c95607-d95a-43f1-97b6-5caa7c7407ce",
+    "ts": 1780233567540,
+    "turn": 215,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 45,
+    "after": 43
+  },
+  {
+    "id": "041a10f9-4ea3-455c-ade3-64d9e3c74ce1",
+    "ts": 1780233854138,
+    "turn": 218,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 54,
+    "after": 49
+  },
+  {
+    "id": "8ce78b10-2552-405e-b518-b659a03ff042",
+    "ts": 1780233857306,
+    "turn": 221,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 5,
+    "before": 33,
+    "after": 28
+  },
+  {
+    "id": "81761dbb-0860-40b1-b640-87e510387db5",
+    "ts": 1780234103058,
+    "turn": 222,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 2,
+    "before": 27,
+    "after": 25
+  },
+  {
+    "id": "899d06fa-0612-4542-b5c5-7da7ef313e4b",
+    "ts": 1780234103810,
+    "turn": 223,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 2,
+    "before": 34,
+    "after": 32
+  },
+  {
+    "id": "6abeb59a-f3f6-4b76-81b8-754411858e83",
+    "ts": 1780234105452,
+    "turn": 226,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 2,
+    "before": 28,
+    "after": 26
+  },
+  {
+    "id": "4ac09fb4-dbd3-428a-b9d9-cba92b0a0df6",
+    "ts": 1780234107944,
+    "turn": 228,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 8,
+    "before": 58,
+    "after": 50
+  },
+  {
+    "id": "896b03b1-3e2c-4367-85cb-ac0c027e3b6f",
+    "ts": 1780234380422,
+    "turn": 229,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 3,
+    "before": 28,
+    "after": 25
+  },
+  {
+    "id": "b0ec34c2-a5fb-408b-88df-ec1fa092a047",
+    "ts": 1780234382119,
+    "turn": 231,
+    "ticker": "MGNT",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 83,
+    "after": 76
+  },
+  {
+    "id": "2eb81ef1-6556-4093-a6d8-7bd52cfb66ad",
+    "ts": 1780234385110,
+    "turn": 234,
+    "ticker": "PLZL",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 57,
+    "after": 54
+  },
+  {
+    "id": "ec45d420-e306-47db-8448-2bae27fa671c",
+    "ts": 1780234611622,
+    "turn": 236,
+    "ticker": "YDEX",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 47,
+    "after": 41
+  },
+  {
+    "id": "349264bb-a818-439b-b7c6-7367ebeed53c",
+    "ts": 1780234819619,
+    "turn": 243,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 87,
+    "after": 83
+  },
+  {
+    "id": "6fc224e4-4641-4b62-aa43-b269068ae1ff",
+    "ts": 1780234820675,
+    "turn": 244,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 8,
+    "before": 135,
+    "after": 127
+  },
+  {
+    "id": "b2cf2327-5eb3-4e95-849e-66cef1d27554",
+    "ts": 1780234822141,
+    "turn": 246,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 4,
+    "before": 49,
+    "after": 45
+  },
+  {
+    "id": "ec40251f-81f4-42dd-a421-459acf89b271",
+    "ts": 1780234983035,
+    "turn": 248,
+    "ticker": "YDEX",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 70,
+    "after": 64
+  },
+  {
+    "id": "953cb668-668a-4fe8-9639-4b063c35294e",
+    "ts": 1780234985250,
+    "turn": 250,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 4,
+    "before": 31,
+    "after": 27
+  },
+  {
+    "id": "bd1026bf-d634-4b4a-b78b-2e0b20ff2e03",
+    "ts": 1780234987949,
+    "turn": 253,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 15,
+    "before": 103,
+    "after": 88
+  },
+  {
+    "id": "1a698e92-b413-4091-8726-4b8474354039",
+    "ts": 1780235159654,
+    "turn": 254,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 15,
+    "before": 100,
+    "after": 85
+  },
+  {
+    "id": "417f6281-a774-4343-9358-5d2a130387a7",
+    "ts": 1780235162150,
+    "turn": 258,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 2,
+    "before": 33,
+    "after": 31
+  },
+  {
+    "id": "c65e2fee-4728-4803-a1dd-93131b56ca29",
+    "ts": 1780235331818,
+    "turn": 260,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 5,
+    "before": 67,
+    "after": 62
+  },
+  {
+    "id": "564c103e-3a1c-44f1-9221-be41607eeb4d",
+    "ts": 1780235333401,
+    "turn": 262,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 96,
+    "after": 91
+  },
+  {
+    "id": "1cec9b54-92ae-4640-aa29-1c93e1acc0aa",
+    "ts": 1780235334351,
+    "turn": 263,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 5,
+    "before": 35,
+    "after": 30
+  },
+  {
+    "id": "27f6fd31-a2da-491f-8779-f737a15fd10a",
+    "ts": 1780235335316,
+    "turn": 264,
+    "ticker": "SBER",
+    "pct": 14,
+    "divAmount": 13,
+    "before": 91,
+    "after": 78
+  },
+  {
+    "id": "86141281-5bc6-4cba-9e65-074fe41840dc",
+    "ts": 1780235336235,
+    "turn": 265,
+    "ticker": "MTSS",
+    "pct": 15,
+    "divAmount": 10,
+    "before": 66,
+    "after": 56
+  },
+  {
+    "id": "3a88fa6e-f8a4-4128-ae58-a5bfe1da5d77",
+    "ts": 1780235452186,
+    "turn": 266,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 3,
+    "before": 27,
+    "after": 24
+  },
+  {
+    "id": "683731a8-fae7-48f9-94e5-b9464f401c85",
+    "ts": 1780235455116,
+    "turn": 270,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 6,
+    "before": 50,
+    "after": 44
+  },
+  {
+    "id": "0e1eceb2-6810-468c-b78b-a4386ba412d5",
+    "ts": 1780235456173,
+    "turn": 271,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 50,
+    "after": 44
+  },
+  {
+    "id": "1c93cd0a-684c-4729-a477-0324325be00d",
+    "ts": 1780235571272,
+    "turn": 273,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 4,
+    "before": 62,
+    "after": 58
+  },
+  {
+    "id": "19675cc3-36ae-45ef-96ec-4a6f7eb30b64",
+    "ts": 1780235572670,
+    "turn": 275,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 11,
+    "before": 121,
+    "after": 110
+  },
+  {
+    "id": "d30ad4f4-2643-4b3b-8f77-09e7b6e98d89",
+    "ts": 1780235665077,
+    "turn": 279,
+    "ticker": "SBER",
+    "pct": 15,
+    "divAmount": 15,
+    "before": 103,
+    "after": 88
+  },
+  {
+    "id": "55600a00-790d-47b4-b7fb-98981d1962b7",
+    "ts": 1780235668635,
+    "turn": 284,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 12,
+    "before": 89,
+    "after": 77
+  },
+  {
+    "id": "000e739c-1eef-45c8-b208-d4ba0d38cd22",
+    "ts": 1780235796669,
+    "turn": 287,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 80,
+    "after": 75
+  },
+  {
+    "id": "1e9dc895-d50a-43ff-be92-04132827d006",
+    "ts": 1780235797581,
+    "turn": 288,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 87,
+    "after": 80
+  },
+  {
+    "id": "438841a7-8756-4299-b0cc-b27b640f931a",
+    "ts": 1780235798914,
+    "turn": 290,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 2,
+    "before": 41,
+    "after": 39
+  },
+  {
+    "id": "6f15366b-31cb-4451-b268-ef9e24f931bb",
+    "ts": 1780829444979,
+    "turn": 745,
+    "ticker": "MTSS",
+    "pct": 10,
+    "divAmount": 8,
+    "before": 79,
+    "after": 71
+  },
+  {
+    "id": "14e9e3b8-1095-4220-a9a5-2d2e761ea464",
+    "ts": 1780829445127,
+    "turn": 754,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 6,
+    "before": 80,
+    "after": 74
+  },
+  {
+    "id": "cbcdf38f-dbb1-438e-b6e3-146ed664288a",
+    "ts": 1780829445192,
+    "turn": 758,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 10,
+    "before": 106,
+    "after": 96
+  },
+  {
+    "id": "d0d6a672-03da-44ac-b890-75f717f971bd",
+    "ts": 1780829445249,
+    "turn": 761,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 13,
+    "before": 96,
+    "after": 83
+  },
+  {
+    "id": "07666f58-087b-4de1-9d63-9789d090babf",
+    "ts": 1780829445298,
+    "turn": 764,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 63,
+    "after": 59
+  },
+  {
+    "id": "67b8835f-5633-4cbc-95a6-db8006c5c864",
+    "ts": 1780829448950,
+    "turn": 768,
+    "ticker": "YDEX",
+    "pct": 12,
+    "divAmount": 8,
+    "before": 65,
+    "after": 57
+  },
+  {
+    "id": "aa7adbe2-9b6c-483b-82fa-48508501d16b",
+    "ts": 1780829449030,
+    "turn": 773,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 68,
+    "after": 65
+  },
+  {
+    "id": "7df6f94d-38d1-45f4-8237-a96f7ff9f68c",
+    "ts": 1780829449114,
+    "turn": 778,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 16,
+    "before": 136,
+    "after": 120
+  },
+  {
+    "id": "e54b6c4e-6c28-46e6-9176-4d546778f58f",
+    "ts": 1780829449152,
+    "turn": 780,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 8,
+    "before": 86,
+    "after": 78
+  },
+  {
+    "id": "0d6ebae8-1f01-4493-acf1-20ec92ddc5ab",
+    "ts": 1780829449213,
+    "turn": 784,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 13,
+    "before": 132,
+    "after": 119
+  },
+  {
+    "id": "c6f5daf3-3c05-4519-8946-c700b30f2c25",
+    "ts": 1780829449296,
+    "turn": 789,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 15,
+    "before": 151,
+    "after": 136
+  },
+  {
+    "id": "2eeebeff-7002-4f32-97b8-fb05cbec2415",
+    "ts": 1780829449381,
+    "turn": 794,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 9,
+    "before": 76,
+    "after": 67
+  },
+  {
+    "id": "630aea6a-94f5-4193-88cc-d3c626798d46",
+    "ts": 1780829449398,
+    "turn": 795,
+    "ticker": "SBER",
+    "pct": 10,
+    "divAmount": 15,
+    "before": 148,
+    "after": 133
+  },
+  {
+    "id": "56b5f8fe-7f3d-42e4-96c2-d7e8e16e2926",
+    "ts": 1780829449416,
+    "turn": 796,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 75,
+    "after": 71
+  },
+  {
+    "id": "add1abb0-9172-4f0f-9bf2-6bda932f28df",
+    "ts": 1780829449462,
+    "turn": 799,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 87,
+    "after": 77
+  },
+  {
+    "id": "8d25c14a-d009-41ac-a329-9f1ab5cc59f6",
+    "ts": 1780829449545,
+    "turn": 804,
+    "ticker": "MGNT",
+    "pct": 5,
+    "divAmount": 9,
+    "before": 177,
+    "after": 168
+  },
+  {
+    "id": "a274d09c-7f60-478d-ac65-8cd87ed210cd",
+    "ts": 1780829449661,
+    "turn": 811,
+    "ticker": "MGNT",
+    "pct": 7,
+    "divAmount": 8,
+    "before": 120,
+    "after": 112
+  },
+  {
+    "id": "7a9e7025-6048-42fd-9cd3-3f3d9e3bc677",
+    "ts": 1780829449679,
+    "turn": 812,
+    "ticker": "YDEX",
+    "pct": 13,
+    "divAmount": 15,
+    "before": 118,
+    "after": 103
+  },
+  {
+    "id": "1c856868-2de2-490b-8df0-7d6634a579cb",
+    "ts": 1780831315822,
+    "turn": 813,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 10,
+    "before": 123,
+    "after": 113
+  },
+  {
+    "id": "a85a65bf-b094-4627-ab82-66605cab5090",
+    "ts": 1780831319346,
+    "turn": 814,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 16,
+    "before": 104,
+    "after": 88
+  },
+  {
+    "id": "8a8ac71f-a281-4533-b327-4e35617050cd",
+    "ts": 1780831497670,
+    "turn": 816,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 14,
+    "before": 160,
+    "after": 146
+  },
+  {
+    "id": "add2be32-177e-47dd-a8ba-a235524d2309",
+    "ts": 1780831499635,
+    "turn": 817,
+    "ticker": "MTSS",
+    "pct": 7,
+    "divAmount": 9,
+    "before": 124,
+    "after": 115
+  },
+  {
+    "id": "3f06176c-d6bb-412c-8520-0bb83a3794d2",
+    "ts": 1780831501371,
+    "turn": 818,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 17,
+    "before": 154,
+    "after": 137
+  },
+  {
+    "id": "cc07c227-0c2c-4180-b395-09584c8152fb",
+    "ts": 1780831865829,
+    "turn": 820,
+    "ticker": "MGNT",
+    "pct": 12,
+    "divAmount": 19,
+    "before": 160,
+    "after": 141
+  },
+  {
+    "id": "56ce1b5c-8ebc-4e1e-a599-2d15203bc85d",
+    "ts": 1780831867502,
+    "turn": 821,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 21,
+    "before": 140,
+    "after": 119
+  },
+  {
+    "id": "68e24f18-2d5e-493a-aefe-03e362a17faa",
+    "ts": 1780831869099,
+    "turn": 822,
+    "ticker": "SBER",
+    "pct": 6,
+    "divAmount": 7,
+    "before": 114,
+    "after": 107
+  },
+  {
+    "id": "653a0c96-ad10-491d-a450-1b13248a8f1a",
+    "ts": 1780832236178,
+    "turn": 824,
+    "ticker": "GAZP",
+    "pct": 9,
+    "divAmount": 14,
+    "before": 154,
+    "after": 140
+  },
+  {
+    "id": "cb08096a-1c8c-414a-a20b-595acf29b11d",
+    "ts": 1780832238920,
+    "turn": 826,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 18,
+    "before": 125,
+    "after": 108
+  },
+  {
+    "id": "d3069625-7a1e-4703-9e93-2a0823ec5bec",
+    "ts": 1780832464994,
+    "turn": 827,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 103,
+    "after": 96
+  },
+  {
+    "id": "33608ed2-dbcf-4cf2-899e-082b245c92ba",
+    "ts": 1780832466439,
+    "turn": 828,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 10,
+    "before": 106,
+    "after": 96
+  },
+  {
+    "id": "418ea103-16cb-4ed7-8cc3-22000c692480",
+    "ts": 1780832468743,
+    "turn": 830,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 8,
+    "before": 164,
+    "after": 156
+  },
+  {
+    "id": "c6184ab6-273d-4297-88e5-4ef109623869",
+    "ts": 1780832737404,
+    "turn": 832,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 4,
+    "before": 87,
+    "after": 83
+  },
+  {
+    "id": "a48b8e75-9f38-4d2f-b295-b0b777cb82e9",
+    "ts": 1780832740125,
+    "turn": 833,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 9,
+    "before": 116,
+    "after": 107
+  },
+  {
+    "id": "73333be3-9194-4504-9288-a86d2bb6099b",
+    "ts": 1780832741867,
+    "turn": 834,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 22,
+    "before": 154,
+    "after": 132
+  },
+  {
+    "id": "0b6b5fb8-91d1-4205-bb4e-85ef5ef9e2e7",
+    "ts": 1780833011424,
+    "turn": 836,
+    "ticker": "GAZP",
+    "pct": 7,
+    "divAmount": 10,
+    "before": 141,
+    "after": 131
+  },
+  {
+    "id": "348d2757-dd8b-42dd-9480-4170ed950d12",
+    "ts": 1780833255645,
+    "turn": 840,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 7,
+    "before": 74,
+    "after": 67
+  },
+  {
+    "id": "e6e688d5-e2e0-4b4c-9775-6962f3d5a31c",
+    "ts": 1780833432541,
+    "turn": 844,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 11,
+    "before": 118,
+    "after": 107
+  },
+  {
+    "id": "568ce054-eb18-4b51-9bd0-2e62f6c03318",
+    "ts": 1780833691962,
+    "turn": 848,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 10,
+    "before": 81,
+    "after": 71
+  },
+  {
+    "id": "a73c95bd-8e7d-42c1-9e19-95eb02df11e6",
+    "ts": 1780833693990,
+    "turn": 850,
+    "ticker": "MTSS",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 65,
+    "after": 61
+  },
+  {
+    "id": "f41d6a24-0768-4386-ad04-62d84c7ede1c",
+    "ts": 1780833834058,
+    "turn": 853,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 21,
+    "before": 153,
+    "after": 132
+  },
+  {
+    "id": "3f16145c-d501-4b3d-b0e1-d0018a7decc1",
+    "ts": 1780833835446,
+    "turn": 854,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 10,
+    "before": 77,
+    "after": 67
+  },
+  {
+    "id": "041d9f13-2b8b-401c-9159-960bd37ac855",
+    "ts": 1780834004519,
+    "turn": 857,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 5,
+    "before": 86,
+    "after": 81
+  },
+  {
+    "id": "5eceb459-c7e6-436c-b830-c02de07d6092",
+    "ts": 1780834108025,
+    "turn": 860,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 18,
+    "before": 167,
+    "after": 149
+  },
+  {
+    "id": "2620be95-6816-4ba1-a54c-dc551d357635",
+    "ts": 1780834111779,
+    "turn": 862,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 10,
+    "before": 68,
+    "after": 58
+  },
+  {
+    "id": "6d30dfca-cc31-42c1-87be-e488ea53caea",
+    "ts": 1780834360743,
+    "turn": 863,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 8,
+    "before": 94,
+    "after": 86
+  },
+  {
+    "id": "7194067f-6aa7-4dc5-a696-20a6a132b757",
+    "ts": 1780834363965,
+    "turn": 866,
+    "ticker": "PLZL",
+    "pct": 6,
+    "divAmount": 2,
+    "before": 40,
+    "after": 38
+  },
+  {
+    "id": "cb5d4765-192d-4ebe-94f2-f31c95ad9167",
+    "ts": 1780834530897,
+    "turn": 868,
+    "ticker": "YDEX",
+    "pct": 9,
+    "divAmount": 13,
+    "before": 142,
+    "after": 129
+  },
+  {
+    "id": "7ff8a565-8639-4930-971d-7a313fa56b9b",
+    "ts": 1780834964185,
+    "turn": 871,
+    "ticker": "MGNT",
+    "pct": 9,
+    "divAmount": 6,
+    "before": 63,
+    "after": 57
+  },
+  {
+    "id": "6cc1ba76-ab54-4d12-8480-456d442fae82",
+    "ts": 1780834965609,
+    "turn": 872,
+    "ticker": "MTSS",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 93,
+    "after": 86
+  },
+  {
+    "id": "36e93ded-1c1b-46c6-908b-1a45c0c22956",
+    "ts": 1780834966908,
+    "turn": 873,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 7,
+    "before": 142,
+    "after": 135
+  },
+  {
+    "id": "836e7c35-d11d-484a-85c4-701632f0d103",
+    "ts": 1780834968277,
+    "turn": 874,
+    "ticker": "YDEX",
+    "pct": 15,
+    "divAmount": 20,
+    "before": 131,
+    "after": 111
+  },
+  {
+    "id": "ded41b38-e1ff-4384-bcc1-e21db9ebec2c",
+    "ts": 1780835160709,
+    "turn": 875,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 7,
+    "before": 84,
+    "after": 77
+  },
+  {
+    "id": "82d80372-6d27-4e16-b94d-5f81acf577b4",
+    "ts": 1780835162535,
+    "turn": 876,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 2,
+    "before": 20,
+    "after": 18
+  },
+  {
+    "id": "b8b8ac91-abfa-4aab-9d8d-609cdd28fe7b",
+    "ts": 1780835164007,
+    "turn": 877,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 96,
+    "after": 91
+  },
+  {
+    "id": "01794466-cb90-4c89-b5a7-4e5c3ae65cb3",
+    "ts": 1780835521156,
+    "turn": 882,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 10,
+    "before": 124,
+    "after": 114
+  },
+  {
+    "id": "1d77410e-1648-4523-9b69-130ed00e6eb7",
+    "ts": 1780835696368,
+    "turn": 883,
+    "ticker": "SBER",
+    "pct": 12,
+    "divAmount": 14,
+    "before": 113,
+    "after": 99
+  },
+  {
+    "id": "e139bf34-6fd9-4629-911b-be6a010b5179",
+    "ts": 1780835698153,
+    "turn": 884,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 8,
+    "before": 130,
+    "after": 122
+  },
+  {
+    "id": "a5bbd0ab-fa12-4e8f-8e85-574aaa9dd552",
+    "ts": 1780836196061,
+    "turn": 890,
+    "ticker": "SBER",
+    "pct": 7,
+    "divAmount": 7,
+    "before": 102,
+    "after": 95
+  },
+  {
+    "id": "2497c0b3-b184-491a-9688-940b220f5075",
+    "ts": 1780836197297,
+    "turn": 891,
+    "ticker": "GAZP",
+    "pct": 11,
+    "divAmount": 21,
+    "before": 187,
+    "after": 166
+  },
+  {
+    "id": "41dea418-6c2f-4c24-b1da-9fa9eab34eb6",
+    "ts": 1780836199165,
+    "turn": 893,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 2,
+    "before": 16,
+    "after": 14
+  },
+  {
+    "id": "707fa38b-bbf6-4ae0-a24c-3578b6faf660",
+    "ts": 1780836494637,
+    "turn": 898,
+    "ticker": "PLZL",
+    "pct": 15,
+    "divAmount": 3,
+    "before": 20,
+    "after": 17
+  },
+  {
+    "id": "d12cd1f1-e9bd-43a5-88c9-637bf4992c18",
+    "ts": 1780836497979,
+    "turn": 901,
+    "ticker": "MGNT",
+    "pct": 11,
+    "divAmount": 11,
+    "before": 97,
+    "after": 86
+  },
+  {
+    "id": "8e7b2856-52b3-48e5-a4a6-6cca5bdf0dbe",
+    "ts": 1780836833136,
+    "turn": 903,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 11,
+    "before": 138,
+    "after": 127
+  },
+  {
+    "id": "d49b0a12-7146-4434-8d62-f861911e11c5",
+    "ts": 1780836834745,
+    "turn": 904,
+    "ticker": "SBER",
+    "pct": 13,
+    "divAmount": 15,
+    "before": 116,
+    "after": 101
+  },
+  {
+    "id": "fe43e395-eef0-4eb1-b81e-68e76b32923c",
+    "ts": 1780837157831,
+    "turn": 907,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 125,
+    "after": 119
+  },
+  {
+    "id": "9415a96d-14b5-4928-bdcd-7895afb9faee",
+    "ts": 1780837159462,
+    "turn": 908,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 127,
+    "after": 121
+  },
+  {
+    "id": "e2123ce5-28d3-43a8-a404-084545c6bbf5",
+    "ts": 1780837462943,
+    "turn": 911,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 1,
+    "before": 16,
+    "after": 15
+  },
+  {
+    "id": "0064220b-246a-464c-bf3a-7b347ce8f107",
+    "ts": 1780837683220,
+    "turn": 914,
+    "ticker": "GAZP",
+    "pct": 12,
+    "divAmount": 21,
+    "before": 171,
+    "after": 150
+  },
+  {
+    "id": "bf5da909-cc84-472d-8411-42ad6dcbe6ea",
+    "ts": 1780837685810,
+    "turn": 916,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 2,
+    "before": 19,
+    "after": 17
+  },
+  {
+    "id": "a5fcd9ac-a7c4-4668-9b9e-162bb6675d66",
+    "ts": 1780837864400,
+    "turn": 919,
+    "ticker": "YDEX",
+    "pct": 7,
+    "divAmount": 9,
+    "before": 128,
+    "after": 119
+  },
+  {
+    "id": "3ab16478-78ed-45c9-8e1c-f3c2decdadc2",
+    "ts": 1780837866026,
+    "turn": 920,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 12,
+    "before": 136,
+    "after": 124
+  },
+  {
+    "id": "60a62f55-2258-4fb4-89b7-6d219e984b26",
+    "ts": 1780837867671,
+    "turn": 921,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 11,
+    "before": 176,
+    "after": 165
+  },
+  {
+    "id": "5f3cbbb6-b300-4cba-aa63-7b2bd64bf276",
+    "ts": 1780838035100,
+    "turn": 922,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 9,
+    "before": 97,
+    "after": 88
+  },
+  {
+    "id": "61ea9cee-86bd-4c75-892b-fddab4e518e3",
+    "ts": 1780838038659,
+    "turn": 925,
+    "ticker": "MGNT",
+    "pct": 15,
+    "divAmount": 8,
+    "before": 52,
+    "after": 44
+  },
+  {
+    "id": "cd14cf4c-ce44-43a3-b0fd-5cde5ed881e2",
+    "ts": 1780838183002,
+    "turn": 927,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 5,
+    "before": 96,
+    "after": 91
+  },
+  {
+    "id": "3a3e4ef0-2af7-4a68-92fa-e35dadd076a1",
+    "ts": 1780838184528,
+    "turn": 928,
+    "ticker": "PLZL",
+    "pct": 14,
+    "divAmount": 2,
+    "before": 15,
+    "after": 13
+  },
+  {
+    "id": "97310b04-cfbc-4978-9337-652f57360e1d",
+    "ts": 1780838337942,
+    "turn": 930,
+    "ticker": "GAZP",
+    "pct": 5,
+    "divAmount": 7,
+    "before": 144,
+    "after": 137
+  },
+  {
+    "id": "a96f1dff-f90e-48b1-bd7e-eea0f4c75fc6",
+    "ts": 1780838340685,
+    "turn": 932,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 1,
+    "before": 16,
+    "after": 15
+  },
+  {
+    "id": "0f37f7a7-85d8-41b6-a89b-5209c8c4ce0f",
+    "ts": 1780838342467,
+    "turn": 933,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 12,
+    "before": 122,
+    "after": 110
+  },
+  {
+    "id": "be143b44-ee02-49e6-a6f1-32b6d1c8c943",
+    "ts": 1780838675932,
+    "turn": 935,
+    "ticker": "MGNT",
+    "pct": 13,
+    "divAmount": 7,
+    "before": 57,
+    "after": 50
+  },
+  {
+    "id": "dd5b2a97-378e-4479-a07a-38aae85dcf26",
+    "ts": 1780838677497,
+    "turn": 936,
+    "ticker": "MTSS",
+    "pct": 13,
+    "divAmount": 25,
+    "before": 195,
+    "after": 170
+  },
+  {
+    "id": "7062f7bf-cab5-4393-9aca-59b6eef10895",
+    "ts": 1780838916837,
+    "turn": 938,
+    "ticker": "GAZP",
+    "pct": 14,
+    "divAmount": 19,
+    "before": 138,
+    "after": 119
+  },
+  {
+    "id": "28b8151d-4d45-4177-bf72-137a13c4ed8f",
+    "ts": 1780838919163,
+    "turn": 939,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 14,
+    "before": 150,
+    "after": 137
+  },
+  {
+    "id": "11d4789d-7f48-4d15-a47c-f851326c924a",
+    "ts": 1780839060688,
+    "turn": 943,
+    "ticker": "YDEX",
+    "pct": 12,
+    "divAmount": 13,
+    "before": 112,
+    "after": 99
+  },
+  {
+    "id": "d3e68f9a-a890-422d-b2f2-76ab874db115",
+    "ts": 1780839062223,
+    "turn": 944,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 2,
+    "before": 24,
+    "after": 22
+  },
+  {
+    "id": "2fcfb60a-c3d0-40ac-83bc-904795a36e0c",
+    "ts": 1780839063620,
+    "turn": 945,
+    "ticker": "GAZP",
+    "pct": 13,
+    "divAmount": 18,
+    "before": 138,
+    "after": 120
+  },
+  {
+    "id": "3f73cd4e-3bce-4842-9a42-7d776d94cf3f",
+    "ts": 1780839228831,
+    "turn": 946,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 4,
+    "before": 71,
+    "after": 67
+  },
+  {
+    "id": "f5714255-6069-475d-99b1-bf38b883e9fd",
+    "ts": 1780839232647,
+    "turn": 949,
+    "ticker": "SBER",
+    "pct": 5,
+    "divAmount": 3,
+    "before": 65,
+    "after": 62
+  },
+  {
+    "id": "8d35a0ff-1212-4761-8a38-02aedaaa2167",
+    "ts": 1780839391673,
+    "turn": 950,
+    "ticker": "GAZP",
+    "pct": 15,
+    "divAmount": 18,
+    "before": 123,
+    "after": 105
+  },
+  {
+    "id": "0b50d1fe-921b-4ed2-8625-d3fcbb5db6b9",
+    "ts": 1780839393178,
+    "turn": 951,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 7,
+    "before": 52,
+    "after": 45
+  },
+  {
+    "id": "2154c61a-fb87-4414-8b29-d42761c8a6c5",
+    "ts": 1780839394679,
+    "turn": 952,
+    "ticker": "MTSS",
+    "pct": 12,
+    "divAmount": 16,
+    "before": 136,
+    "after": 120
+  },
+  {
+    "id": "254efed7-6d56-4fa9-b570-334935b04297",
+    "ts": 1780839396233,
+    "turn": 953,
+    "ticker": "PLZL",
+    "pct": 12,
+    "divAmount": 3,
+    "before": 28,
+    "after": 25
+  },
+  {
+    "id": "beeb1903-6f7f-4f81-bbcb-4d95606d393a",
+    "ts": 1780839519340,
+    "turn": 956,
+    "ticker": "PLZL",
+    "pct": 9,
+    "divAmount": 2,
+    "before": 26,
+    "after": 24
+  },
+  {
+    "id": "c1c03b9a-d0c1-42bc-9c16-681254c878f1",
+    "ts": 1780839521336,
+    "turn": 957,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 48,
+    "after": 45
+  },
+  {
+    "id": "44d418fd-0ad0-4efd-90cf-cc75c3a3c96f",
+    "ts": 1780839654506,
+    "turn": 958,
+    "ticker": "GAZP",
+    "pct": 6,
+    "divAmount": 9,
+    "before": 145,
+    "after": 136
+  },
+  {
+    "id": "74889862-bbca-40e3-8756-76f19d0c96ac",
+    "ts": 1780839790158,
+    "turn": 962,
+    "ticker": "YDEX",
+    "pct": 14,
+    "divAmount": 17,
+    "before": 121,
+    "after": 104
+  },
+  {
+    "id": "e7e800f7-acb1-40ed-a9fe-9aab4f846ff5",
+    "ts": 1780839792359,
+    "turn": 964,
+    "ticker": "MTSS",
+    "pct": 5,
+    "divAmount": 8,
+    "before": 165,
+    "after": 157
+  },
+  {
+    "id": "0d6af161-5d5f-4792-b020-fbf8807c2340",
+    "ts": 1780840076054,
+    "turn": 968,
+    "ticker": "PLZL",
+    "pct": 7,
+    "divAmount": 2,
+    "before": 28,
+    "after": 26
+  },
+  {
+    "id": "f9a645b1-e826-45f5-9ec9-e62ebffc8eb4",
+    "ts": 1780840077848,
+    "turn": 969,
+    "ticker": "GAZP",
+    "pct": 8,
+    "divAmount": 15,
+    "before": 190,
+    "after": 175
+  },
+  {
+    "id": "e69690c8-64f0-4b01-9729-e3a2d765a312",
+    "ts": 1780840216112,
+    "turn": 970,
+    "ticker": "SBER",
+    "pct": 8,
+    "divAmount": 6,
+    "before": 69,
+    "after": 63
+  },
+  {
+    "id": "9ac33398-c512-4fb4-b57e-23b2628eefea",
+    "ts": 1780840363761,
+    "turn": 974,
+    "ticker": "PLZL",
+    "pct": 13,
+    "divAmount": 4,
+    "before": 30,
+    "after": 26
+  },
+  {
+    "id": "f4ebc6e5-30cb-41fb-a38b-5f1b7412920d",
+    "ts": 1780840365671,
+    "turn": 975,
+    "ticker": "MTSS",
+    "pct": 9,
+    "divAmount": 11,
+    "before": 127,
+    "after": 116
+  },
+  {
+    "id": "52485309-7804-495f-b35c-56a0f4a0645a",
+    "ts": 1780840367685,
+    "turn": 977,
+    "ticker": "YDEX",
+    "pct": 6,
+    "divAmount": 6,
+    "before": 101,
+    "after": 95
+  },
+  {
+    "id": "e9c1fa8d-b180-4264-a2c2-be74b4ea6ff7",
+    "ts": 1780840515135,
+    "turn": 979,
+    "ticker": "PLZL",
+    "pct": 11,
+    "divAmount": 3,
+    "before": 27,
+    "after": 24
+  },
+  {
+    "id": "2c48cdb5-f7da-490c-b762-77f5bd137f0b",
+    "ts": 1780840516564,
+    "turn": 980,
+    "ticker": "MGNT",
+    "pct": 6,
+    "divAmount": 3,
+    "before": 44,
+    "after": 41
+  },
+  {
+    "id": "7ac2c91c-4c93-43e3-825c-6ad9e9a79157",
+    "ts": 1780840644476,
+    "turn": 982,
+    "ticker": "SBER",
+    "pct": 9,
+    "divAmount": 5,
+    "before": 50,
+    "after": 46
+  },
+  {
+    "id": "f0151497-23f0-4ab4-8fba-baec863113aa",
+    "ts": 1780840646463,
+    "turn": 984,
+    "ticker": "YDEX",
+    "pct": 10,
+    "divAmount": 12,
+    "before": 117,
+    "after": 105
+  },
+  {
+    "id": "612a954c-292a-4ab9-9953-a64442287fa6",
+    "ts": 1780840647924,
+    "turn": 985,
+    "ticker": "MGNT",
+    "pct": 14,
+    "divAmount": 8,
+    "before": 55,
+    "after": 47
+  },
+  {
+    "id": "9ab4971d-340b-42cc-85b1-5f4a3f73b540",
+    "ts": 1780840841345,
+    "turn": 986,
+    "ticker": "PLZL",
+    "pct": 10,
+    "divAmount": 3,
+    "before": 28,
+    "after": 25
+  },
+  {
+    "id": "397674e6-78eb-485e-9cbb-4ad683be35c8",
+    "ts": 1780840842810,
+    "turn": 987,
+    "ticker": "YDEX",
+    "pct": 5,
+    "divAmount": 6,
+    "before": 115,
+    "after": 109
+  },
+  {
+    "id": "35339075-e54c-43ca-a2b0-30f3aa84f49c",
+    "ts": 1780840845398,
+    "turn": 989,
+    "ticker": "GAZP",
+    "pct": 10,
+    "divAmount": 19,
+    "before": 185,
+    "after": 167
+  }
+]

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Крысиные бега — Акции</title>
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Chart.js с CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+
+<!-- Модальное окно для дивидендов -->
+
+<body>
+
+<div id="dividendModal" class="modal">
+  <div class="modal-content">
+    <span id="closeModal" class="close">&times;</span>
+    <p id="dividendMessage"></p>
+    <button id="okModal" class="btn">OK</button>
+  </div>
+</div>
+  <div class="container">
+    <h1>Акции (недельный график)</h1>
+
+    <div id="grid" class="grid">
+      <!-- Карточки создаются динамически -->
+    </div>
+
+<div class="controls" style="flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
+  <label class="toggle">
+    <input type="checkbox" id="levelsToggle" checked>
+    <span>Показывать уровни</span>
+  </label>
+
+  <label class="toggle">
+    <span>Интервал</span>
+    <select id="granularity">
+      <option value="D">День</option>
+      <option value="W" selected>Неделя</option>
+      <option value="M">Месяц</option>
+      <option value="Y">Год</option>
+    </select>
+  </label>
+
+  <label class="toggle">
+    <span>Окно</span>
+    <select id="range">
+      <option value="3M">3M</option>
+      <option value="6M">6M</option>
+      <option value="1Y">1Y</option>
+      <option value="ALL" selected>Всё</option>
+    </select>
+  </label>
+
+  <label class="toggle">
+    <span>Y-масштаб</span>
+    <select id="yscale">
+      <option value="AUTO">Авто</option>
+      <option value="GLOBAL" selected>Глобальный</option>
+      <option value="LOG">Логарифмический</option>
+    </select>
+  </label>
+
+  <button id="nextBtn" class="btn">Следующий ход</button>
+  <button id="resetBtn" class="btn btn-reset">Reset</button>
+</div>
+
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
